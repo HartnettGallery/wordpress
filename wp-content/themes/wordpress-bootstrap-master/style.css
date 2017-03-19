@@ -11,3 +11,58 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html http://www.apache.org/lice
 */
 
 /* HEADS UP: Everything that you will normally find here can be found in the library/less/wp.less */
+
+
+/*
+  custom styles
+*/
+body{
+  padding-top: 0px;
+}
+
+.dropdown-menu > li{
+  display: inline-block;
+  float:right;
+ }
+.open> ul {
+    display: inline-flex !important;
+}
+
+.navbar-inverse{
+  background-color: white;
+  border: 0px;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus{
+  background-color: white;
+  color: black;
+}
+
+.navbar-inverse .navbar-brand{
+  color: black;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+  color: black;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus{
+  color: black;
+}
+
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus{
+  background-color: white;
+  color: black;
+  text-decoration: underline;
+}
+.navbar-inverse .navbar-nav>li>a{
+  font-family: sans-serif;
+  font-size: 3rem;
+  font-weight: bolder;
+}
+svg {
+  height:5vh;
+  width:5vh;
+}
+.socialLinks > li > a{
+  /*padding: 0px*/
+}

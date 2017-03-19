@@ -31,15 +31,6 @@
     <!--[if lt IE 9]>
               <script type='text/javascript' src="http://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js"></script>
     <![endif]-->
-    <style>
-    .dropdown-menu > li{
-      display: inline-block;
-      float:right;
-     }
-    .open> ul {
-        display: inline-flex !important;
-    }
-    </style>
   </head>
 
   <body <?php body_class(); ?>>
@@ -99,21 +90,21 @@
       <nav class="navbar navbar-inverse">
         <div class="container-fluid">
           <div class="navbar-header">
-            <a class="navbar-brand" href="#">WebSiteName</a>
+            <!-- <a class="navbar-brand" href="#">Hartnett</a> -->
+            <a class="navbar-brand" href=""><img src="" alt="hartnett">
           </div>
           <ul class="nav navbar-nav navbar-right">
-            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">PROPOSALS</a></li>
             <li class="dropdown">
-              <a class="dropdown-toggle" data-toggle="dropdown" href="#">Page 1
+              <a class="dropdown-toggle" data-toggle="dropdown" href="#">EXHIBITIONS
               <span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="#">Page 1-1</a></li>
-                <li><a href="#">Page 1-2</a></li>
-                <li><a href="#">Page 1-3</a></li>
+                <li><a href="#">SUBMIT</a></li>
+                <li><a href="#">FLOOR PLAN</a></li>
+                <li><a href="#">PICTURES</a></li>
               </ul>
             </li>
-            <li><a href="#">Page 2</a></li>
-            <li><a href="#">Page 3</a></li>
+            <li><a href="#">ABOUT US</a></li>
           </ul>
         </div>
       </nav>
