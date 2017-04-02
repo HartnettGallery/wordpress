@@ -45,7 +45,7 @@
       </div>
       </footer> -->
 
-      <footer class="navbar navbar-fixed-bottom" style='
+      <!-- <footer class="navbar navbar-fixed-bottom" style='
                                                         width:100%;
                                                         font-size: 85%;
                                                         background-color: #323334;
@@ -82,6 +82,13 @@
             <li><a href="#" style="color: white; font-size: 200%; padding-top:30px">RSS</a></li>
           </ul>
         </div>
+      </footer> -->
+
+
+      <footer class="footer navbar navbar-fixed-bottom">
+            <div class="container">
+              <p class="text-muted">Place sticky footer content here.</p>
+            </div>
       </footer>
 
 
