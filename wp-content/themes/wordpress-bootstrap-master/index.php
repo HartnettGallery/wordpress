@@ -45,7 +45,7 @@
           <?php } ?>
 
           <?php else : ?>
-
+<!--
           <article id="post-not-found">
               <header>
                 <h1><?php _e("Not Found", "wpbootstrap"); ?></h1>
@@ -55,23 +55,24 @@
               </section>
               <footer>
               </footer>
-          </article>
+          </article> -->
 
           <?php endif; ?>
 
         </div>
 
-        <?php get_sidebar(); // sidebar 1 ?>
+        <!-- <?php get_sidebar(); // sidebar 1 ?> -->
 
         <!-- Button trigger modal -->
-        <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
+        <!-- <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
           Launch demo modal
-        </button>
+        </button> -->
 
-        <!-- Modal -->
-        <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" >
+        <!-- Modal TODO: (mohan) decide position and hide-->
+        <!-- Modal TODO: (mohan) put the modal back-->
+        <div class="modal fade in" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" style="display: block;" >
           <div class="modal-dialog" role="document">
-            <div class="modal-content img-responsive" style="background-image:url('/hartnett/RapturePostcardBack.jpg'); background-size:100% 100%; min-height:400px;">
+            <div class="modal-content img-responsive" style="background-image:url('/wp-content/themes/wordpress-bootstrap-master/hartnett/RapturePostcardBack.jpg'); background-size:100% 100%; min-height:500px;min-Width:800px;">
               <div class="modal-header" style="border-bottom:0px">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
               </div>
@@ -93,13 +94,13 @@
 
   jQuery(document).ready(function ($) {
 
-    // $('#myModal').modal('show');
+    // TODO: (Mohan) maybe resizable
+    // $('.modal-content').resizable({
+    //     alsoResize: ".modal-dialog",
+    //     minHeight: 800,
+    //     minWidth: 500
+    // });
 
-    $('.modal-content').resizable({
-        alsoResize: ".modal-dialog",
-        minHeight: 300,
-        minWidth: 300
-    });
     $('.modal-dialog').draggable();
 
     $('#myModal').on('show.bs.modal', function () {

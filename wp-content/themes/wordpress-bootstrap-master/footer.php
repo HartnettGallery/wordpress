@@ -85,9 +85,9 @@
       </footer> -->
 
 
-      <footer class="footer navbar navbar-fixed-bottom">
+      <footer class="footer navbar navbar-fixed-bottom" >
             <div class="container">
-              <p class="text-muted">Place sticky footer content here.</p>
+              <p class="text-muted">HARTNETT</p>
             </div>
       </footer>
 

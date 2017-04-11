@@ -66,3 +66,7 @@ svg {
 .socialLinks > li > a{
   /*padding: 0px*/
 }
+
+.navbar-nav>li>.dropdown-menu {
+  border: 0px;
+}

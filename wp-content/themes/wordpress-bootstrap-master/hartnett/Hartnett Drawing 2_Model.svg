@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="no"?>
+<svg viewBox="0 0 1408 792" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-linecap="round" stroke-linejoin="round" fill-rule="evenodd" xml:space="preserve" >
+<defs >
+<clipPath id="clipId0" >
+<path d="M0,792 1408,792 1408,0 0,0 z" />
+</clipPath>
+</defs>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,0,0)" stroke-width="0.1" />
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,0,0)" stroke-width="0.25" >
+<polyline points="269.887,286.353 834.109,609.976 " />
+<polyline points="834.109,609.976 1105.18,169.192 " />
+<polyline points="1105.18,169.192 1054.9,127.008 " />
+<polyline points="1054.9,127.008 1220.61,83.2891 " />
+<polyline points="1054.9,127.008 269.887,286.353 " />
+<polyline points="269.887,286.353 185.314,286.353 " />
+<polyline points="834.109,609.976 1008.2,784.235 " />
+<polyline points="987.457,763.47 1220.61,376.07 " />
+<polyline points="837.881,611.132 1109.13,168.827 " />
+<polyline points="1105.18,169.192 1220.61,145.355 " />
+<polyline points="1108.33,170.134 1222.36,147.648 " />
+<polyline points="1111.08,171.019 1222.69,150.742 " />
+<polyline points="1114.95,174.28 1220.61,157.306 " />
+<polyline points="1114.95,174.28 981.956,388.13 " />
+<polyline points="975.588,386.587 1188.49,429.438 " />
+<polyline points="972.718,391.266 1184.17,436.618 " />
+<polyline points="974.268,394.563 1182.05,440.142 " />
+<polyline points="974.268,394.563 840.66,611.467 " />
+<polyline points="840.66,611.467 993.562,753.327 " />
+<polyline points="994.642,751.533 953.885,714.117 " />
+<polyline points="953.885,714.117 1125,427.629 " />
+<polyline points="1130.74,417.815 1220.61,270.275 " />
+<polyline points="976.507,396.853 843.818,611.81 " />
+<polyline points="843.818,611.81 955.329,711.699 " />
+<polyline points="845.248,613.091 976.507,396.853 " />
+<polyline points="976.507,396.853 1124.21,428.953 " />
+<polyline points="979.85,387.445 1112.69,172.406 " />
+<polyline points="1112.69,172.406 1220.61,153.284 " />
+<ellipse rx="11.1913" ry="10.1776" transform="translate(651.187 378.428) rotate(-13.1039)" />
+<ellipse rx="10.5798" ry="10.0292" transform="translate(846.584 328.601) rotate(-17.3543)" />
+<ellipse rx="9.4725" ry="8.61639" transform="translate(897.099 363.384) rotate(-14.6003)" />
+<polyline points="185.314,7.76471 1220.61,7.76471 " />
+<polyline points="185.314,784.235 185.314,7.76471 " />
+</g>
+</svg>
