@@ -70,19 +70,33 @@ Template Name: Previous
 </style>
       <div id="content" class="clearfix row" style="margin-top:10vh">
 
-              <!-- <?php get_sidebar(); // sidebar 1 ?> -->
-
-        <div id="main" class="col-sm-12 clearfix" role="main">
-          <div id="products" class="row list-group">
-            <?php $myposts = get_posts(''); foreach($myposts as $post) : setup_postdata($post); ?>
-              <div class="item  col-xs-4 col-lg-4">
-                <div class="thumbnail">
-                  <?php the_content(); ?>
-                </div>
-              </div>
-            <?php endforeach; wp_reset_postdata(); ?>
+    <div id="products" class="row list-group">
+        <?php $myposts = get_posts(array('tag' => '2017')); foreach($myposts as $post) : setup_postdata($post); ?>
+        <div class="item  col-xs-4 col-lg-4">
+          <div class="thumbnail" style="border:0px black solid">
+              <?php the_content(); ?>
+              <!-- <img class="group list-group-image" src="http://placehold.it/400x250/000/fff" alt="" /> -->
+              <!-- <div class="caption">
+                  <h4 class="group inner list-group-item-heading">
+                      Product title</h4>
+                  <p class="group inner list-group-item-text">
+                      Product description... Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
+                      sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+                  <div class="row">
+                      <div class="col-xs-12 col-md-6">
+                          <p class="lead">
+                              $21.000</p>
+                      </div>
+                      <div class="col-xs-12 col-md-6">
+                          <a class="btn btn-success" href="http://www.jquery2dotnet.com">Add to cart</a>
+                      </div>
+                  </div>
+              </div> -->
           </div>
         </div>
+      <?php endforeach; wp_reset_postdata(); ?>
+    </div>
+
       </div> <!-- end #content -->
 
 <?php get_footer(); ?>
