@@ -17,11 +17,11 @@ Template Name: Modal
 
         <!-- Modal TODO: (mohan) decide position and hide-->
         <!-- Modal TODO: (mohan) put the modal back-->
-        <div class="modal fade in" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" style="display: block;" >
+        <div class="modal fade in" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" style="display:block;">
           <div class="modal-dialog" role="document">
             <div class="modal-content img-responsive" style="background-image:url('/wp-content/themes/wordpress-bootstrap-master/hartnett/RapturePostcardBack.jpg'); background-size:100% 100%; min-height:500px;min-Width:800px;">
               <div class="modal-header" style="border-bottom:0px">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <button id="closeModal" type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
               </div>
               <div class="modal-body">
               </div>
@@ -55,6 +55,15 @@ Template Name: Modal
             'max-height':'100%'
         });
     });
+
+    $('#closeModal').click(function() {
+      $('#myModal').css("display", "none");
+    });
+
+    $('#openModal').click(function() {
+      $('#myModal').css("display", "block");
+    });
+
   });
 
 </script>

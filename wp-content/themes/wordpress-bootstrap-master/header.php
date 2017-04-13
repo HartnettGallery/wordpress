@@ -125,7 +125,7 @@
               <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">PROPOSALS <span class="caret"></span></a>
                 <ul class="dropdown-menu" style="left: 0;right: auto;">
-                  <li><a href="/submit">SUBMIT</a></li>
+                  <li><a href="/proposal">SUBMIT</a></li>
                   <li><a href="#">FLOOR PLAN</a></li>
                   <li><a href="#">PICTURES</a></li>
                 </ul>
@@ -133,12 +133,12 @@
               <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">EXHIBITIONS <span class="caret"></span></a>
                 <ul class="dropdown-menu" style="left: 0;right: auto;">
-                  <li><a href="#">CURRENT</a></li>
-                  <li><a href="#">PREVIOUS</a></li>
+                  <li><a href="/current">CURRENT</a></li>
+                  <li><a href="/previous">PREVIOUS</a></li>
                   <li><a href="#">SEARCH</a></li>
                 </ul>
               </li>
-              <li><a href="#about">ABOUT US</a></li>
+              <li><a href="/about">ABOUT US</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>
