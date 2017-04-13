@@ -59,5 +59,12 @@ column-rule: none;">
         </div> <!-- end #main -->
 
       </div> <!-- end #content -->
+<style>
+body{
+  background-image: url('/wp-content/themes/wordpress-bootstrap-master/hartnett/current.svg');
+  height:100vh;
+  background-size: 100%;
+}
+</style>
 
 <?php get_footer(); ?>

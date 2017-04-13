@@ -68,5 +68,12 @@ Template Name: Proposal
         </div>
 
       </div>
+<style>
+body{
+  background-image: url('/wp-content/themes/wordpress-bootstrap-master/hartnett/proposal.svg');
+  height:100vh;
+  background-size: 100%;
+}
+</style>
 
 <?php get_footer(); ?>

@@ -59,5 +59,13 @@ Template Name: Modal
 
 </script>
 
+<style>
+body{
+  background-image: url('/wp-content/themes/wordpress-bootstrap-master/hartnett/modal.svg');
+  height:100vh;
+  background-size: 100%;
+}
+</style>
+
 
 <?php get_footer(); ?>
