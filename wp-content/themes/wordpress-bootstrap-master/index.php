@@ -3,13 +3,16 @@
 <source src="http://thenewcode.com/assets/videos/polina.webm" type="video/webm">
 <source src="http://thenewcode.com/assets/videos/polina.mp4" type="video/mp4">
 </video>
+
+
 <div id="polina">
-<h1>Polina</h1>
-<p>filmed by Alexander Wagner 2011
+<h1>HARTNETT</h1>
+<h1>&nbsp&nbspGALLERY</h1>
+<!-- <p>filmed by Alexander Wagner 2011
 <p><a href="http://thenewcode.com/777/Create-Fullscreen-HTML5-Page-Background-Video">original article</a>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur porta dictum turpis, eu mollis justo gravida ac. Proin non eros blandit, rutrum est a, cursus quam. Nam ultricies, velit ac suscipit vehicula, turpis eros sollicitudin lacus, at convallis mauris magna non justo. Etiam et suscipit elit. Morbi eu ornare nulla, sit amet ornare est. Sed vehicula ipsum a mattis dapibus. Etiam volutpat vel enim at auctor.</p>
-<p>Aenean pharetra convallis pellentesque. Vestibulum et metus lectus. Nunc consectetur, ipsum in viverra eleifend, erat erat ultricies felis, at ultricies mi massa eu ligula. Suspendisse in justo dapibus metus sollicitudin ultrices id sed nisl.</p>
-<button>Pause</button>
+<p>Aenean pharetra convallis pellentesque. Vestibulum et metus lectus. Nunc consectetur, ipsum in viverra eleifend, erat erat ultricies felis, at ultricies mi massa eu ligula. Suspendisse in justo dapibus metus sollicitudin ultrices id sed nisl.</p> -->
+<button>ENTER</button>
 </div>
 
 <style>
@@ -36,20 +39,24 @@ video {
 }
 
 #polina {
+  position: absolute;
   font-family: Agenda-Light, Agenda Light, Agenda, Arial Narrow, sans-serif;
   font-weight:100;
-  background: rgba(0,0,0,0.3);
+  /*background: rgba(0,0,0,0.3);*/
   color: white;
   padding: 2rem;
   width: 33%;
   margin:2rem;
-  float: right;
+  /*float: right;*/
+  top:30%;
+  left:30%;
   font-size: 1.2rem;
 }
 h1 {
-  font-size: 3rem;
+  font-family: sans-serif;
+  font-size: 5rem;
   text-transform: uppercase;
-  margin-top: 0;
+  margin: 0;
   letter-spacing: .3rem;
 }
 #polina button {
@@ -58,7 +65,7 @@ h1 {
   padding: .4rem;
   border: none;
   margin: 1rem auto;
-  font-size: 1.3rem;
+  font-size: 2.3rem;
   background: rgba(255,255,255,0.23);
   color: #fff;
   border-radius: 3px;
@@ -113,13 +120,14 @@ vidFade();
 
 
 pauseButton.addEventListener("click", function() {
-  vid.classList.toggle("stopfade");
-  if (vid.paused) {
-    vid.play();
-    pauseButton.innerHTML = "Pause";
-  } else {
-    vid.pause();
-    pauseButton.innerHTML = "Paused";
-  }
+  // vid.classList.toggle("stopfade");
+  // if (vid.paused) {
+  //   vid.play();
+  //   pauseButton.innerHTML = "Pause";
+  // } else {
+  //   vid.pause();
+  //   pauseButton.innerHTML = "Paused";
+  // }
+  window.location.href = "/index"
 })
 </script>
