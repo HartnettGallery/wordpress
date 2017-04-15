@@ -85,9 +85,9 @@
       </footer> -->
 
 
-      <footer class="footer navbar navbar-fixed-bottom" style="background-color: transparent; border:3px black dotted; min-height:12%">
-        <div class="container">
-          <p class="text-muted">HARTNETT</p>
+      <footer class="footer navbar navbar-fixed-bottom navbar-inverse" style="background-color: rgb(60,60,60);min-height:11%">
+        <div class="container" style="border:0px blue dotted; width:100%; min-height:11vh;padding:0px">
+          <p style="font-size:8vh; color:white; border:1px white solid; min-height:12vh; margin:0px; padding:0px" class="text-muted">HARTNETT</p>
         </div>
       </footer>
 
