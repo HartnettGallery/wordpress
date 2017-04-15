@@ -109,15 +109,15 @@
         </div>
       </nav> -->
 
-      <nav class="navbar navbar-default navbar-fixed-top">
+      <nav class="navbar navbar-default navbar-fixed-top navbar-light" style="background-color: transparent; border:0px">
         <div class="container">
           <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <!-- <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
               <span class="sr-only">Toggle navigation</span>
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
-            </button>
+            </button> -->
             <a class="navbar-brand" href="http://blogs.rochester.edu/hartnett/"><img src="/wp-content/themes/wordpress-bootstrap-master/hartnett/Logo.svg" style="max-width:100%;max-height:100%;">
           </div>
           <div id="navbar" class="collapse navbar-collapse">
