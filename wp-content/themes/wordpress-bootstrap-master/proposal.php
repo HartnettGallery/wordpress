@@ -29,11 +29,14 @@ Template Name: Proposal
             <p>&nbsp;<br>
             Please email proposals to hartnett@ur.rochester.edu by the submission deadline of April 1, 2016.</p>
             <p>&nbsp;<br>
+
+            <div style="background-color:rgb(202,58,21); color:white; padding-left:2vw; padding-right:2vw; padding-top:2vh;padding-bottom:2vh; display: inline-block;">
             The Hartnett Gallery<br>
             201 Wilson Commons<br>
             University of Rochester<br>
             Rochester, NY 14627<br>
             (585) 275-4188</p>
+            </div>
 
             </section>
 
