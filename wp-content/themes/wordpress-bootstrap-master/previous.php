@@ -74,7 +74,7 @@ body{
 }
 </style>
 
-  <div id="content" class="clearfix row" style="margin-top:10vh">
+  <div id="content" class="clearfix row" style="margin-top:15vh">
 
     <div id="products" class="row list-group">
         <?php $myposts = get_posts(array('tag' => '2017')); foreach($myposts as $post) : setup_postdata($post); ?>

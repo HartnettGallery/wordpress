@@ -6,7 +6,7 @@ Template Name: Current
 
 <?php get_header(); ?>
 
-      <div id="content" class="clearfix row" style="margin-top:10vh">
+      <div id="content" class="clearfix row" style="margin-top:15vh">
 
               <!-- <?php get_sidebar(); // sidebar 1 ?> -->
 
