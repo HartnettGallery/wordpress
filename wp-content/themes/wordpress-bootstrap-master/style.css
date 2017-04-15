@@ -70,3 +70,7 @@ svg {
 .navbar-nav>li>.dropdown-menu {
   border: 0px;
 }
+
+.navbar-default .navbar-nav>li>a {
+  color:#000;
+}

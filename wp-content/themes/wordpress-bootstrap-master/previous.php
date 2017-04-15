@@ -17,6 +17,7 @@ Template Name: Previous
     /*-moz-border-radius: 0px;*/
     /*border-radius: 0px;*/
     border:0px;
+    background-color: transparent;
 }
 
 .item.list-group-item
@@ -66,9 +67,14 @@ Template Name: Previous
 {
     margin: 0 0 11px;
 }
-
+body{
+  background-image: url('/wp-content/themes/wordpress-bootstrap-master/hartnett/current.svg');
+  height:100vh;
+  background-size: 100%;
+}
 </style>
-      <div id="content" class="clearfix row" style="margin-top:10vh">
+
+  <div id="content" class="clearfix row" style="margin-top:10vh">
 
     <div id="products" class="row list-group">
         <?php $myposts = get_posts(array('tag' => '2017')); foreach($myposts as $post) : setup_postdata($post); ?>

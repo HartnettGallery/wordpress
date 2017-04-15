@@ -85,10 +85,10 @@
       </footer> -->
 
 
-      <footer class="footer navbar navbar-fixed-bottom" >
-            <div class="container">
-              <p class="text-muted">HARTNETT</p>
-            </div>
+      <footer class="footer navbar navbar-fixed-bottom" style="background-color: transparent; border:3px black dotted; min-height:12%">
+        <div class="container">
+          <p class="text-muted">HARTNETT</p>
+        </div>
       </footer>
 
 
