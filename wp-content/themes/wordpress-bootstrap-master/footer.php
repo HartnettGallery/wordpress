@@ -85,11 +85,11 @@
       </footer> -->
 
 
-      <footer class="footer navbar navbar-fixed-bottom navbar-inverse" style="background-color: rgb(50,50,50);min-height:11%">
-        <div class="container" style="border:0px blue dotted; width:30%; float:left;min-height:11vh;padding:0px">
-          <p style="font-size:8vh; color:white; border:0px white solid; min-height:12vh; margin:0px; padding:0px" class="text-muted">HARTNETT</p>
+      <footer class="footer navbar navbar-fixed-bottom navbar-inverse" style="background-color: rgb(50,50,50);min-height:9vh">
+        <div class="container" style="border:0px white dotted; width:auto; float:left;min-height:9vh;padding:0px; color:white; font-weight:800; font-size:12vh; line-height:8.3vh; margin-left:-0.2vw;">
+          HARTNETT
         </div>
-        <ul class="nav navbar-nav navbar-right socialLinks" style="border:0px blue dotted;min-height:11vh;padding:2vh; margin-right:1vw;">
+        <ul class="nav navbar-nav navbar-right socialLinks" style="border:0px white dotted;min-height:9vh; margin-right:1vw; width:auto; max-height:9vh; max-width:60%; float:right;">
           <li><a href="https://www.facebook.com/hartnettgallery/" >
             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 49.652 49.652" style="enable-background:new 0 0 49.652 49.652;" xml:space="preserve">
             <g>
@@ -113,8 +113,7 @@
             <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> </svg>
             </a>
           </li>
-          <li><a href="https://ccc.rochester.edu/organization/hartnettgallerycommittee" style="color: white; font-size: 4vh; padding-top:3.5vh; font-weight:100;">CCC</a></li>
-          <!-- <li><a href="#" style="color: white; font-size: 200%; padding-top:30px">RSS</a></li> -->
+          <li><a href="https://ccc.rochester.edu/organization/hartnettgallerycommittee" style="color: white; font-size: 4vh; padding-top:25%; font-weight:100;">CCC</a></li>
         </ul>
       </footer>
 
