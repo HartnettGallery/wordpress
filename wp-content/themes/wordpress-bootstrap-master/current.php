@@ -8,8 +8,6 @@ Template Name: Current
 
       <div id="content" class="clearfix row" style="margin-top:15vh">
 
-              <!-- <?php get_sidebar(); // sidebar 1 ?> -->
-
         <div id="main" class="clearfix" role="main" style="-moz-column-count: 2;
 -moz-column-gap: 1.5em;
 -moz-column-rule: none;
@@ -61,7 +59,7 @@ column-rule: none;">
       </div> <!-- end #content -->
 <style>
 body{
-  background-image: url('/wp-content/themes/wordpress-bootstrap-master/hartnett/current.svg');
+  background-image: url('/hartnett/wp-content/themes/wordpress-bootstrap-master/hartnett/current.svg');
   height:100vh;
   background-size: 100%;
 }

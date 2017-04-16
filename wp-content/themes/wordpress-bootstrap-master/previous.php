@@ -68,7 +68,7 @@ Template Name: Previous
     margin: 0 0 11px;
 }
 body{
-  background-image: url('/wp-content/themes/wordpress-bootstrap-master/hartnett/current.svg');
+  background-image: url('/hartnett/wp-content/themes/wordpress-bootstrap-master/hartnett/current.svg');
   height:100vh;
   background-size: 100%;
 }

@@ -118,14 +118,14 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button> -->
-            <a class="navbar-brand" style="border:0px red solid;min-height:inherit" href="http://blogs.rochester.edu/hartnett/"><img src="/wp-content/themes/wordpress-bootstrap-master/hartnett/Logo.svg" style="max-width:100%;max-height:100%;">
+            <a class="navbar-brand" style="border:0px red solid;min-height:inherit" href="http://blogs.rochester.edu/hartnett/"><img src="/hartnett/wp-content/themes/wordpress-bootstrap-master/hartnett/Logo.svg" style="max-width:100%;max-height:100%;">
           </div>
           <div id="navbar" class="collapse navbar-collapse" style="border:0px red solid;min-height:inherit; font-weight:800;">
             <ul class="nav navbar-nav navbar-right" style="margin-top:3vh; margin-right:1vw">
               <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="font-size:4rem">PROPOSALS</span></a>
                 <ul class="dropdown-menu" style="left: 0;right: auto;">
-                  <li><a href="/proposal">SUBMIT</a></li>
+                  <li><a href="/hartnett/proposal">SUBMIT</a></li>
                   <li><a href="#">FLOOR PLAN</a></li>
                   <li><a href="#">PICTURES</a></li>
                 </ul>
@@ -133,12 +133,12 @@
               <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="font-size:4rem">EXHIBITIONS</span></a>
                 <ul class="dropdown-menu" style="left: 0;right: auto;">
-                  <li><a href="/current">CURRENT</a></li>
-                  <li><a href="/previous">PREVIOUS</a></li>
+                  <li><a href="/hartnett/current">CURRENT</a></li>
+                  <li><a href="/hartnett/previous">PREVIOUS</a></li>
                   <li><a href="#">SEARCH</a></li>
                 </ul>
               </li>
-              <li><a href="/about" style="font-size:4rem">ABOUT US</a></li>
+              <li><a href="/#" style="font-size:4rem">ABOUT US</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>

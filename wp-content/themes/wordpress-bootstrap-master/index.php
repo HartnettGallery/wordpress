@@ -128,6 +128,6 @@ pauseButton.addEventListener("click", function() {
   //   vid.pause();
   //   pauseButton.innerHTML = "Paused";
   // }
-  window.location.href = "/index"
+  window.location.href = "/hartnett/index"
 })
 </script>
