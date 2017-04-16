@@ -18,13 +18,12 @@ Template Name: Modal
         <!-- Modal TODO: (mohan) decide position and hide-->
         <!-- Modal TODO: (mohan) put the modal back-->
         <div class="modal fade in" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" style="display:block;">
-          <div class="modal-dialog" role="document" style="position:absolute; left:15%; top:15%;">
+          <div class="modal-dialog" role="document" style="position:absolute; left:10vw; top:20vh; width:auto;">
             <div class="modal-content img-responsive" style="display:block; background-size:100% 100%;">
               <div class="modal-header" style="border-bottom:0px">
                 <button id="closeModal" type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
               </div>
-              <img width="596" height="400" src="/wp-content/themes/wordpress-bootstrap-master/hartnett/RapturePostcardBack.jpg">
-
+              <img width="525" height="350" src="/wp-content/themes/wordpress-bootstrap-master/hartnett/RapturePostcardBack.jpg">
             </div>
           </div>
         </div>
@@ -40,13 +39,6 @@ Template Name: Modal
 <script>
 
   jQuery(document).ready(function ($) {
-
-    // TODO: (Mohan) maybe resizable
-    // $('.modal-content').resizable({
-    //     alsoResize: ".modal-dialog",
-    //     minHeight: 800,
-    //     minWidth: 500
-    // });
 
     $('.modal-dialog').draggable();
 
