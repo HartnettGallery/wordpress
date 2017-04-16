@@ -19,12 +19,12 @@ Template Name: Modal
         <!-- Modal TODO: (mohan) put the modal back-->
         <div class="modal fade in" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" style="display:block;">
           <div class="modal-dialog" role="document" style="position:absolute; left:15%; top:15%;">
-            <div class="modal-content img-responsive" style="background-image:url('/wp-content/themes/wordpress-bootstrap-master/hartnett/RapturePostcardBack.jpg'); background-size:100% 100%; min-height:500px;min-Width:800px;">
+            <div class="modal-content img-responsive" style="display:block; background-size:100% 100%;">
               <div class="modal-header" style="border-bottom:0px">
                 <button id="closeModal" type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
               </div>
-              <div class="modal-body">
-              </div>
+              <img width="596" height="400" src="/wp-content/themes/wordpress-bootstrap-master/hartnett/RapturePostcardBack.jpg">
+
             </div>
           </div>
         </div>
@@ -73,6 +73,13 @@ body{
   background-image: url('/wp-content/themes/wordpress-bootstrap-master/hartnett/modal.svg');
   height:100vh;
   background-size: 100%;
+}
+img {
+  /*display: block;
+  max-width:230px;
+  max-height:95px;
+  width: auto;
+  height: auto;*/
 }
 </style>
 
