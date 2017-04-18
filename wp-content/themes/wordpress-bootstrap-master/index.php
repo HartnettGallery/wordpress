@@ -5,9 +5,10 @@
 </video>
 
 
+
 <div id="polina">
-<h1>HARTNETT</h1>
-<h1>&nbsp&nbspGALLERY</h1>
+  <h1>HARTNETT</h1>
+  <h1>&nbsp&nbspGALLERY</h1>
 <!-- <p>filmed by Alexander Wagner 2011
 <p><a href="http://thenewcode.com/777/Create-Fullscreen-HTML5-Page-Background-Video">original article</a>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur porta dictum turpis, eu mollis justo gravida ac. Proin non eros blandit, rutrum est a, cursus quam. Nam ultricies, velit ac suscipit vehicula, turpis eros sollicitudin lacus, at convallis mauris magna non justo. Etiam et suscipit elit. Morbi eu ornare nulla, sit amet ornare est. Sed vehicula ipsum a mattis dapibus. Etiam volutpat vel enim at auctor.</p>
@@ -42,38 +43,43 @@ video {
   position: absolute;
   font-family: Agenda-Light, Agenda Light, Agenda, Arial Narrow, sans-serif;
   font-weight:100;
-  /*background: rgba(0,0,0,0.3);*/
   color: white;
-  padding: 2rem;
-  width: 33%;
+  width: 100%;
   margin:2rem;
-  /*float: right;*/
-  top:30%;
-  left:30%;
+  margin-left: 0px;
+  top:35%;
   font-size: 1.2rem;
+  border:0px red solid;
 }
 h1 {
+  padding-right: 43vw;
+  text-align: right;
+  border:0px red solid;
   font-family: sans-serif;
-  font-size: 5rem;
+  font-size: 8rem;
+  font-weight: 600;
   text-transform: uppercase;
   margin: 0;
+  line-height: 7rem;;
   letter-spacing: .3rem;
 }
 #polina button {
   display: block;
-  width: 80%;
-  padding: .4rem;
+  width: auto;
+  padding: 1rem;
   border: none;
   margin: 1rem auto;
-  font-size: 2.3rem;
-  background: rgba(255,255,255,0.23);
-  color: #fff;
+  font-size: 3rem;
+  font-weight: 700;
+  background: #fff;
+  color: rgba(0,0,0,0.6);
   border-radius: 3px;
   cursor: pointer;
   transition: .3s background;
 }
+
 #polina button:hover {
-   background: rgba(0,0,0,0.5);
+   background: rgba(255,255,255,0.5);
 }
 
 a {
@@ -85,7 +91,7 @@ a {
   transition: .6s background;
 }
 a:hover{
-  background:rgba(0,0,0,0.9);
+  /*background:rgba(0,0,0,0.9);*/
 }
 @media screen and (max-width: 500px) {
   div{width:70%;}
