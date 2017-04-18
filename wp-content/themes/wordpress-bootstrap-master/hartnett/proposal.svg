@@ -1,209 +1,200 @@
-<svg width="1108" height="792" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <clipPath id="clipId0">
-   <path id="svg_1" d="m0,792l1408,0l0,-792l-1408,0l0,792z"/>
-  </clipPath>
- </defs>
- <g>
-  <title>background</title>
-  <rect fill="none" id="canvas_background" height="794" width="1110" y="-1" x="-1"/>
- </g>
- <g>
-  <title>Layer 1</title>
-  <g id="svg_2" stroke-width="0.1" stroke="rgb(0,0,0)" fill="none" clip-path="url(#clipId0)"/>
-  <g id="svg_3" stroke-width="0.25" stroke="rgb(0,0,0)" fill="none" clip-path="url(#clipId0)">
-   <polyline stroke-width="0.8" id="svg_4" points="76.98501586914062,70.32679748535156 108.28504943847656,75.62640380859375 "/>
-   <polyline stroke-width="0.8" id="svg_5" points="108.28504943847656,75.62640380859375 75.15203857421875,396.2569885253906 "/>
-   <polyline stroke-width="0.8" id="svg_6" points="75.15203857421875,396.2569885253906 40.125,394.1470031738281 "/>
-   <polyline stroke-width="0.8" id="svg_7" points="40.125,394.1470031738281 76.98501586914062,70.32679748535156 "/>
-   <polyline stroke-width="0.8" id="svg_8" points="108.28504943847656,75.62640380859375 137.47901916503906,211.9409942626953 "/>
-   <polyline stroke-width="0.8" id="svg_9" points="137.47901916503906,211.9409942626953 115.06402587890625,431.27301025390625 "/>
-   <polyline stroke-width="0.8" id="svg_10" points="115.06402587890625,431.27301025390625 75.15203857421875,396.2569885253906 "/>
-   <polyline stroke-width="0.8" id="svg_11" points="40.125,394.1470031738281 91.87503051757812,429.64599609375 "/>
-   <polyline stroke-width="0.8" id="svg_12" points="91.87503051757812,429.64599609375 115.06402587890625,431.27301025390625 "/>
-   <polyline stroke-width="0.8" id="svg_13" points="78.45904541015625,383.4150085449219 115.38902282714844,420.4169921875 "/>
-   <polyline stroke-width="0.8" id="svg_14" points="115.38902282714844,420.4169921875 136.5420379638672,212.41200256347656 "/>
-   <polyline stroke-width="0.8" id="svg_15" points="136.5420379638672,212.41200256347656 108.49601745605469,94.76200103759766 "/>
-   <polyline stroke-width="0.8" id="svg_16" points="108.49601745605469,94.76200103759766 78.45904541015625,383.4150085449219 "/>
-   <polyline stroke-width="0.8" id="svg_17" points="106.73196411132812,111.71099853515625 132.40904235839844,212.65899658203125 "/>
-   <polyline stroke-width="0.8" id="svg_18" points="132.40904235839844,212.65899658203125 136.5420379638672,212.41200256347656 "/>
-   <polyline stroke-width="0.8" id="svg_19" points="132.40904235839844,212.65899658203125 111.51095581054688,416.531005859375 "/>
-   <polyline stroke-width="0.8" id="svg_20" points="118.33396911621094,784.2349853515625 191.0120086669922,569.93798828125 "/>
-   <polyline stroke-width="0.8" id="svg_21" points="191.0120086669922,569.93798828125 208.3710174560547,569.2230224609375 "/>
-   <polyline stroke-width="0.8" id="svg_22" points="191.0120086669922,569.93798828125 207.5900115966797,373.5849914550781 "/>
-   <polyline stroke-width="0.8" id="svg_23" points="207.5900115966797,373.5849914550781 321.87294006347656,396.25201416015625 "/>
-   <polyline stroke-width="0.8" id="svg_24" points="321.87294006347656,396.25201416015625 648.1069793701172,386.1650085449219 "/>
-   <polyline stroke-width="0.8" id="svg_25" points="648.1069793701172,386.1650085449219 673.3950042724609,396.5870056152344 "/>
-   <polyline stroke-width="0.8" id="svg_26" points="673.3950042724609,396.5870056152344 1001.7881317138672,386.28900146484375 "/>
-   <polyline stroke-width="0.8" id="svg_27" points="644.9799652099609,545.6019897460938 672.6979827880859,543.2349853515625 "/>
-   <polyline stroke-width="0.8" id="svg_28" points="672.6979827880859,543.2349853515625 865.2280731201172,552.0120239257812 "/>
-   <polyline stroke-width="0.8" id="svg_29" points="644.9799652099609,545.6019897460938 431.7830047607422,536.2680053710938 "/>
-   <polyline stroke-width="0.8" id="svg_30" points="313.67698669433594,531.0960083007812 321.87294006347656,396.25201416015625 "/>
-   <polyline stroke-width="0.8" id="svg_31" points="313.67698669433594,531.0960083007812 248.77598571777344,532.2880249023438 "/>
-   <polyline stroke-width="0.8" id="svg_32" points="248.77598571777344,532.2880249023438 248.8710174560547,540.9180297851562 "/>
-   <polyline stroke-width="0.8" id="svg_33" points="248.8710174560547,540.9180297851562 235.9070281982422,541.0609741210938 "/>
-   <polyline stroke-width="0.8" id="svg_34" points="235.9070281982422,541.0609741210938 235.6699676513672,549.6719970703125 "/>
-   <polyline stroke-width="0.8" id="svg_35" points="235.6699676513672,549.6719970703125 222.08799743652344,550.3519897460938 "/>
-   <polyline stroke-width="0.8" id="svg_36" points="222.08799743652344,550.3519897460938 221.7159881591797,559.8800048828125 "/>
-   <polyline stroke-width="0.8" id="svg_37" points="221.7159881591797,559.8800048828125 208.2739715576172,559.8699951171875 "/>
-   <polyline stroke-width="0.8" id="svg_38" points="208.2739715576172,559.8699951171875 208.2679901123047,569.2269897460938 "/>
-   <polyline stroke-width="0.8" id="svg_39" points="208.2739715576172,559.8699951171875 1023.7180633544922,611.2219848632812 "/>
-   <polyline stroke-width="0.8" id="svg_40" points="1023.7180633544922,611.2219848632812 1024.4080047607422,623.5709838867188 "/>
-   <polyline stroke-width="0.8" id="svg_41" points="1024.4080047607422,623.5709838867188 1068.7682342529297,696.6909790039062 "/>
-   <polyline stroke-width="0.8" id="svg_42" points="1023.7180633544922,611.2219848632812 1022.1582489013672,606.9769897460938 "/>
-   <polyline stroke-width="0.8" id="svg_43" points="1022.1582489013672,606.9769897460938 1022.1582489013672,595.7239990234375 "/>
-   <polyline stroke-width="0.8" id="svg_44" points="1022.1582489013672,595.7239990234375 1020.5681610107422,593.010009765625 "/>
-   <polyline stroke-width="0.8" id="svg_45" points="1020.5681610107422,593.010009765625 1020.0983123779297,580.3909912109375 "/>
-   <polyline stroke-width="0.8" id="svg_46" points="1020.0983123779297,580.3909912109375 1018.2679901123047,578.3369750976562 "/>
-   <polyline stroke-width="0.8" id="svg_47" points="1018.2679901123047,578.3369750976562 1018.0482635498047,567.8889770507812 "/>
-   <polyline stroke-width="0.8" id="svg_48" points="1018.0482635498047,567.8889770507812 1017.6780242919922,565.3380126953125 "/>
-   <polyline stroke-width="0.8" id="svg_49" points="1017.6780242919922,565.3380126953125 1009.2283172607422,353.4419860839844 "/>
-   <polyline stroke-width="0.8" id="svg_50" points="1009.2283172607422,353.4419860839844 1068.7682342529297,106.62300109863281 "/>
-   <polyline stroke-width="0.8" id="svg_51" points="735.5819549560547,7.764709949493408 1068.7682342529297,93.056396484375 "/>
-   <polyline stroke-width="0.8" id="svg_52" points="343.2040252685547,392.6090087890625 263.34898376464844,375.0840148925781 "/>
-   <polyline stroke-width="0.8" id="svg_53" points="263.34898376464844,375.0840148925781 404.93797302246094,7.764709949493408 "/>
-   <polyline stroke-width="0.8" id="svg_54" points="460.11293029785156,7.764709949493408 840.2589569091797,95.21810150146484 "/>
-   <polyline stroke-width="0.8" id="svg_55" points="840.2589569091797,95.21810150146484 920.0681610107422,379.48199462890625 "/>
-   <polyline stroke-width="0.8" id="svg_56" points="648.1069793701172,386.1650085449219 644.9799652099609,545.6019897460938 "/>
-   <polyline stroke-width="0.8" id="svg_57" points="672.6979827880859,543.2349853515625 673.3950042724609,396.5870056152344 "/>
-   <polyline stroke-width="0.8" id="svg_58" points="865.5580291748047,555.14697265625 1006.3080291748047,558.948974609375 "/>
-   <polyline stroke-width="0.8" id="svg_59" points="865.5580291748047,555.14697265625 864.4180145263672,502.42999267578125 "/>
-   <polyline stroke-width="0.8" id="svg_60" points="864.4180145263672,502.42999267578125 1003.1379852294922,504.7149963378906 "/>
-   <polyline stroke-width="0.8" id="svg_61" points="1009.6183319091797,363.2080078125 1007.4880828857422,372.2900085449219 "/>
-   <polyline stroke-width="0.8" id="svg_62" points="1007.4880828857422,372.2900085449219 1014.3583221435547,557.1589965820312 "/>
-   <polyline stroke-width="0.8" id="svg_63" points="664.8159637451172,390.3739929199219 887.7980194091797,382.8110046386719 "/>
-   <polyline stroke-width="0.8" id="svg_64" points="887.7980194091797,382.8110046386719 758.5909881591797,131.38800048828125 "/>
-   <polyline stroke-width="0.8" id="svg_65" points="758.5909881591797,131.38800048828125 482.8769989013672,75.40229797363281 "/>
-   <polyline stroke-width="0.8" id="svg_66" points="482.8769989013672,75.40229797363281 294.3199920654297,377.0220031738281 "/>
-   <polyline stroke-width="0.8" id="svg_67" points="294.3199920654297,377.0220031738281 352.4969940185547,389.8590087890625 "/>
-   <polyline stroke-width="0.8" id="svg_68" points="467.9659881591797,358.4049987792969 739.2720184326172,342.3710021972656 "/>
-   <polyline stroke-width="0.8" id="svg_69" points="739.2720184326172,342.3710021972656 639.6039886474609,260.12298583984375 "/>
-   <polyline stroke-width="0.8" id="svg_70" points="467.9659881591797,358.4049987792969 620.5239715576172,264.1199951171875 "/>
-   <polyline stroke-width="0.8" id="svg_71" points="323.7419891357422,397.75799560546875 440.0619659423828,394.35101318359375 "/>
-   <polyline stroke-width="0.8" id="svg_72" points="440.0619659423828,394.35101318359375 431.7830047607422,536.2680053710938 "/>
-   <polyline stroke-width="0.8" id="svg_73" points="431.8610076904297,534.9290161132812 315.12400817871094,530.4760131835938 "/>
-   <polyline stroke-width="0.8" id="svg_74" points="315.12400817871094,530.4760131835938 315.15000915527344,530.9739990234375 "/>
-   <polyline stroke-width="0.8" id="svg_75" points="315.15000915527344,530.9739990234375 313.6849822998047,530.9739990234375 "/>
-   <polyline stroke-width="0.8" id="svg_76" points="315.12400817871094,530.4760131835938 323.7419891357422,397.75799560546875 "/>
-   <polyline stroke-width="0.8" id="svg_77" points="329.04698181152344,405.2760009765625 353.6470184326172,404.8949890136719 "/>
-   <polyline stroke-width="0.8" id="svg_78" points="353.6470184326172,404.8949890136719 346.64097595214844,523.8380126953125 "/>
-   <polyline stroke-width="0.8" id="svg_79" points="346.64097595214844,523.8380126953125 320.75196838378906,523.073974609375 "/>
-   <polyline stroke-width="0.8" id="svg_80" points="320.75196838378906,523.073974609375 329.04698181152344,405.2760009765625 "/>
-   <polyline stroke-width="0.8" id="svg_81" points="366.77500915527344,404.00201416015625 392.65696716308594,403.50799560546875 "/>
-   <polyline stroke-width="0.8" id="svg_82" points="392.65696716308594,403.50799560546875 386.21397399902344,525.1129760742188 "/>
-   <polyline stroke-width="0.8" id="svg_83" points="386.21397399902344,525.1129760742188 360.4340057373047,524.239013671875 "/>
-   <polyline stroke-width="0.8" id="svg_84" points="360.4340057373047,524.239013671875 366.77500915527344,404.00201416015625 "/>
-   <polyline stroke-width="0.8" id="svg_85" points="358.83897399902344,396.7300109863281 350.8229522705078,531.8380126953125 "/>
-   <polyline stroke-width="0.8" id="svg_86" points="360.0279998779297,396.69500732421875 352.87196350097656,531.916015625 "/>
-   <polyline stroke-width="0.8" id="svg_87" points="391.10694885253906,533.375 398.51197814941406,395.5679931640625 "/>
-   <polyline stroke-width="0.8" id="svg_88" points="402.2059783935547,395.4599914550781 395.0599822998047,533.5260009765625 "/>
-   <polyline stroke-width="0.8" id="svg_89" points="400.33299255371094,395.5150146484375 393.15196228027344,533.4530029296875 "/>
-   <polyline stroke-width="0.8" id="svg_90" points="406.72596740722656,403.01800537109375 433.37596130371094,402.4519958496094 "/>
-   <polyline stroke-width="0.8" id="svg_91" points="433.37596130371094,402.4519958496094 427.84495544433594,526.9409790039062 "/>
-   <polyline stroke-width="0.8" id="svg_92" points="427.84495544433594,526.9409790039062 400.5939483642578,525.9210205078125 "/>
-   <polyline stroke-width="0.8" id="svg_93" points="400.5939483642578,525.9210205078125 406.72596740722656,403.01800537109375 "/>
-   <polyline stroke-width="0.8" id="svg_94" points="248.77598571777344,532.2880249023438 1017.6780242919922,565.3380126953125 "/>
-   <polyline stroke-width="0.8" id="svg_95" points="248.8710174560547,540.9180297851562 1018.2679901123047,578.3369750976562 "/>
-   <polyline stroke-width="0.8" id="svg_96" points="1020.0983123779297,580.3909912109375 235.9070281982422,541.0609741210938 "/>
-   <polyline stroke-width="0.8" id="svg_97" points="235.6699676513672,549.6719970703125 1020.5681610107422,593.010009765625 "/>
-   <polyline stroke-width="0.8" id="svg_98" points="1022.1582489013672,595.7239990234375 222.08799743652344,550.3519897460938 "/>
-   <polyline stroke-width="0.8" id="svg_99" points="221.7159881591797,559.8800048828125 1022.1582489013672,606.9769897460938 "/>
-   <polyline stroke-width="0.8" id="svg_100" points="208.3710174560547,569.2230224609375 1024.4080047607422,623.5709838867188 "/>
-   <polyline stroke-width="0.8" id="svg_101" points="129.5540313720703,454.6440124511719 145.59300231933594,454.7659912109375 "/>
-   <polyline stroke-width="0.8" id="svg_102" points="145.59300231933594,454.7659912109375 159.68296813964844,297.4079895019531 "/>
-   <polyline stroke-width="0.8" id="svg_103" points="159.68296813964844,297.4079895019531 145.16001892089844,296.2760009765625 "/>
-   <polyline stroke-width="0.8" id="svg_104" points="145.16001892089844,296.2760009765625 129.5540313720703,454.6440124511719 "/>
-   <polyline stroke-width="0.8" id="svg_105" points="129.5540313720703,454.6440124511719 144.5910186767578,462.8699951171875 "/>
-   <polyline stroke-width="0.8" id="svg_106" points="144.5910186767578,462.8699951171875 158.11000061035156,463.7049865722656 "/>
-   <polyline stroke-width="0.8" id="svg_107" points="158.11000061035156,463.7049865722656 145.59300231933594,454.7659912109375 "/>
-   <polyline stroke-width="0.8" id="svg_108" points="158.11000061035156,463.7049865722656 170.4080047607422,336.8420104980469 "/>
-   <polyline stroke-width="0.8" id="svg_109" points="170.4080047607422,336.8420104980469 159.68296813964844,297.4079895019531 "/>
-   <polyline stroke-width="0.8" id="svg_110" points="160.6780242919922,306.1400146484375 169.58604431152344,337.68499755859375 "/>
-   <polyline stroke-width="0.8" id="svg_111" points="169.58604431152344,337.68499755859375 157.6210174560547,458.12200927734375 "/>
-   <polyline stroke-width="0.8" id="svg_112" points="157.6210174560547,458.12200927734375 147.3290252685547,448.864013671875 "/>
-   <polyline stroke-width="0.8" id="svg_113" points="147.3290252685547,448.864013671875 160.6780242919922,306.1400146484375 "/>
-   <polyline stroke-width="0.8" id="svg_114" points="160.06105041503906,312.7309875488281 167.0570526123047,337.9469909667969 "/>
-   <polyline stroke-width="0.8" id="svg_115" points="167.0570526123047,337.9469909667969 169.58604431152344,337.9469909667969 "/>
-   <polyline stroke-width="0.8" id="svg_116" points="167.0570526123047,337.9469909667969 155.21702575683594,455.9599914550781 "/>
-   <polyline stroke-width="0.8" id="svg_117" points="157.4070281982422,341.114990234375 163.0540008544922,354.9309997558594 "/>
-   <polyline stroke-width="0.8" id="svg_118" points="163.0540008544922,354.9309997558594 154.0220184326172,444.94500732421875 "/>
-   <polyline stroke-width="0.8" id="svg_119" points="154.0220184326172,444.94500732421875 148.23899841308594,439.1390075683594 "/>
-   <polyline stroke-width="0.8" id="svg_120" points="100.81405639648438,168.58799743652344 125.06602478027344,244.98500061035156 "/>
-   <polyline stroke-width="0.8" id="svg_121" points="125.06602478027344,244.98500061035156 112.51095581054688,368.6719970703125 "/>
-   <polyline stroke-width="0.8" id="svg_122" points="112.51095581054688,368.6719970703125 84.31202697753906,327.1669921875 "/>
-   <polyline stroke-width="0.8" id="svg_123" points="159.95298767089844,471.7040100097656 170.1490020751953,471.5920104980469 "/>
-   <polyline stroke-width="0.8" id="svg_124" points="170.1490020751953,471.5920104980469 178.00901794433594,368.67401123046875 "/>
-   <polyline stroke-width="0.8" id="svg_125" points="178.00901794433594,368.67401123046875 169.19300842285156,368.3840026855469 "/>
-   <polyline stroke-width="0.8" id="svg_126" points="169.19300842285156,368.3840026855469 159.95298767089844,471.7040100097656 "/>
-   <polyline stroke-width="0.8" id="svg_127" points="170.1490020751953,471.5920104980469 175.98497009277344,476.281005859375 "/>
-   <polyline stroke-width="0.8" id="svg_128" points="175.98497009277344,476.281005859375 167.98399353027344,476.281005859375 "/>
-   <polyline stroke-width="0.8" id="svg_129" points="167.98399353027344,476.281005859375 159.95298767089844,471.7040100097656 "/>
-   <polyline stroke-width="0.8" id="svg_130" points="175.98497009277344,476.281005859375 185.16197204589844,388.54400634765625 "/>
-   <polyline stroke-width="0.8" id="svg_131" points="185.16197204589844,388.54400634765625 178.00901794433594,368.67401123046875 "/>
-   <polyline stroke-width="0.8" id="svg_132" points="178.6840057373047,374.0790100097656 184.3049774169922,388.8240051269531 "/>
-   <polyline stroke-width="0.8" id="svg_133" points="184.3049774169922,388.8240051269531 175.42601013183594,471.739990234375 "/>
-   <polyline stroke-width="0.8" id="svg_134" points="175.42601013183594,471.739990234375 171.5449676513672,468.0409851074219 "/>
-   <polyline stroke-width="0.8" id="svg_135" points="171.5449676513672,468.0409851074219 178.6840057373047,374.0790100097656 "/>
-   <polyline stroke-width="0.8" id="svg_136" points="178.4020233154297,377.7959899902344 182.53697204589844,389.1029968261719 "/>
-   <polyline stroke-width="0.8" id="svg_137" points="182.53697204589844,389.1029968261719 174.3550262451172,470.718994140625 "/>
-   <polyline stroke-width="0.8" id="svg_138" points="182.53697204589844,389.1029968261719 184.3049774169922,388.8240051269531 "/>
-   <polyline stroke-width="0.8" id="svg_139" points="174.1539764404297,481.2430114746094 182.67198181152344,481.2950134277344 "/>
-   <polyline stroke-width="0.8" id="svg_140" points="182.67198181152344,481.2950134277344 188.88499450683594,405.5249938964844 "/>
-   <polyline stroke-width="0.8" id="svg_141" points="188.88499450683594,405.5249938964844 183.40098571777344,405.3789978027344 "/>
-   <polyline stroke-width="0.8" id="svg_142" points="174.1539764404297,481.2430114746094 174.6899871826172,476.281005859375 "/>
-   <polyline stroke-width="0.8" id="svg_143" points="188.88499450683594,405.5249938964844 192.2999725341797,417.7130126953125 "/>
-   <polyline stroke-width="0.8" id="svg_144" points="192.2999725341797,417.7130126953125 185.57701110839844,483.89801025390625 "/>
-   <polyline stroke-width="0.8" id="svg_145" points="185.57701110839844,483.89801025390625 182.67198181152344,481.2950134277344 "/>
-   <polyline stroke-width="0.8" id="svg_146" points="185.57701110839844,483.89801025390625 179.1589813232422,483.89801025390625 "/>
-   <polyline stroke-width="0.8" id="svg_147" points="179.1589813232422,483.89801025390625 174.1539764404297,481.2430114746094 "/>
-   <polyline stroke-width="0.8" id="svg_148" points="182.09202575683594,486.3009948730469 187.0289764404297,486.2749938964844 "/>
-   <polyline stroke-width="0.8" id="svg_149" points="187.0289764404297,486.2749938964844 189.57701110839844,488.2309875488281 "/>
-   <polyline stroke-width="0.8" id="svg_150" points="189.57701110839844,488.2309875488281 185.0969696044922,488.2309875488281 "/>
-   <polyline stroke-width="0.8" id="svg_151" points="185.0969696044922,488.2309875488281 182.09202575683594,486.3009948730469 "/>
-   <polyline stroke-width="0.8" id="svg_152" points="182.09202575683594,486.3009948730469 182.36802673339844,483.89801025390625 "/>
-   <polyline stroke-width="0.8" id="svg_153" points="187.0289764404297,486.2749938964844 192.5239715576172,425.1940002441406 "/>
-   <polyline stroke-width="0.8" id="svg_154" points="192.5239715576172,425.1940002441406 194.66600036621094,433.40899658203125 "/>
-   <polyline stroke-width="0.8" id="svg_155" points="194.66600036621094,433.40899658203125 189.57701110839844,488.2309875488281 "/>
-   <polyline stroke-width="0.8" id="svg_156" points="192.5239715576172,425.1940002441406 191.54002380371094,425.1940002441406 "/>
-   <polyline stroke-width="0.8" id="svg_157" points="189.1069793701172,409.0260009765625 191.6589813232422,417.4519958496094 "/>
-   <polyline stroke-width="0.8" id="svg_158" points="191.6589813232422,417.4519958496094 185.3929901123047,480.6340026855469 "/>
-   <polyline stroke-width="0.8" id="svg_159" points="185.3929901123047,480.6340026855469 183.55198669433594,478.6820068359375 "/>
-   <polyline stroke-width="0.8" id="svg_160" points="183.55198669433594,478.6820068359375 189.1069793701172,409.0260009765625 "/>
-   <polyline stroke-width="0.8" id="svg_161" points="188.83201599121094,412.47601318359375 190.6739959716797,417.614013671875 "/>
-   <polyline stroke-width="0.8" id="svg_162" points="190.6739959716797,417.614013671875 191.63401794433594,417.7090148925781 "/>
-   <polyline stroke-width="0.8" id="svg_163" points="190.6739959716797,417.614013671875 184.47300720214844,479.6579895019531 "/>
-   <polyline stroke-width="0.8" id="svg_164" points="207.5900115966797,373.5849914550781 193.12400817871094,7.764709949493408 "/>
-   <polyline stroke-width="0.8" id="svg_165" points="1001.7881317138672,386.28900146484375 1008.0081024169922,386.0580139160156 "/>
-   <polyline stroke-width="0.8" id="svg_166" points="1042.6582489013672,442.6789855957031 1051.3982391357422,432.7449951171875 "/>
-   <polyline stroke-width="0.8" id="svg_167" points="1051.3982391357422,432.7449951171875 1055.6282196044922,509.0639953613281 "/>
-   <polyline stroke-width="0.8" id="svg_168" points="1055.6282196044922,509.0639953613281 1046.1980438232422,510.4330139160156 "/>
-   <polyline stroke-width="0.8" id="svg_169" points="1046.1980438232422,510.4330139160156 1042.6582489013672,442.6789855957031 "/>
-   <polyline stroke-width="0.8" id="svg_170" points="1051.3982391357422,432.7449951171875 1059.6982879638672,433.1809997558594 "/>
-   <polyline stroke-width="0.8" id="svg_171" points="1059.6982879638672,433.1809997558594 1062.3180389404297,509.2770080566406 "/>
-   <polyline stroke-width="0.8" id="svg_172" points="1062.3180389404297,509.2770080566406 1055.6282196044922,509.0639953613281 "/>
-   <polyline stroke-width="0.8" id="svg_173" points="1046.1980438232422,510.4330139160156 1062.3180389404297,509.2770080566406 "/>
-   <polyline stroke-width="0.8" id="svg_174" points="1048.1479949951172,507.66900634765625 1054.0782928466797,506.25299072265625 "/>
-   <polyline stroke-width="0.8" id="svg_175" points="1054.0782928466797,506.25299072265625 1050.6982879638672,437.0329895019531 "/>
-   <polyline stroke-width="0.8" id="svg_176" points="1050.6982879638672,437.0329895019531 1044.1980438232422,444.34698486328125 "/>
-   <polyline stroke-width="0.8" id="svg_177" points="1044.1980438232422,444.34698486328125 1048.1479949951172,507.66900634765625 "/>
-   <polyline stroke-width="0.8" id="svg_178" points="1049.3982391357422,507.3699951171875 1045.7581024169922,444.8030090332031 "/>
-   <polyline stroke-width="0.8" id="svg_179" points="1045.7581024169922,444.8030090332031 1050.8181610107422,439.3070068359375 "/>
-   <polyline stroke-width="0.8" id="svg_180" points="1028.7383270263672,459.2959899902344 1034.6482391357422,451.3869934082031 "/>
-   <polyline stroke-width="0.8" id="svg_181" points="1034.6482391357422,451.3869934082031 1038.0382537841797,513.02197265625 "/>
-   <polyline stroke-width="0.8" id="svg_182" points="1038.0382537841797,513.02197265625 1032.0883026123047,513.5640258789062 "/>
-   <polyline stroke-width="0.8" id="svg_183" points="1032.0883026123047,513.4929809570312 1028.7383270263672,459.2959899902344 "/>
-   <polyline stroke-width="0.8" id="svg_184" points="1034.6482391357422,451.3869934082031 1040.5281219482422,451.6700134277344 "/>
-   <polyline stroke-width="0.8" id="svg_185" points="1040.5281219482422,451.6700134277344 1043.0883026123047,512.89599609375 "/>
-   <polyline stroke-width="0.8" id="svg_186" points="1043.0883026123047,512.89599609375 1038.0382537841797,513.02197265625 "/>
-   <polyline stroke-width="0.8" id="svg_187" points="1019.0883026123047,468.6050109863281 1023.2082977294922,464.0660095214844 "/>
-   <polyline stroke-width="0.8" id="svg_188" points="1023.2082977294922,464.0660095214844 1025.9280242919922,515.4240112304688 "/>
-   <polyline stroke-width="0.8" id="svg_189" points="1025.9280242919922,515.4240112304688 1030.7080535888672,515.4240112304688 "/>
-   <polyline stroke-width="0.8" id="svg_190" points="1030.7080535888672,515.4240112304688 1028.0181121826172,464.3389892578125 "/>
-   <polyline stroke-width="0.8" id="svg_191" points="1028.0181121826172,464.3389892578125 1023.2082977294922,464.0660095214844 "/>
-   <polyline stroke-width="0.8" id="svg_192" points="1019.0883026123047,468.6050109863281 1021.6880340576172,516.3980102539062 "/>
-   <polyline stroke-width="0.8" id="svg_193" points="1021.6880340576172,516.3980102539062 1025.9280242919922,515.4240112304688 "/>
-   <polyline stroke-width="0.8" id="svg_194" points="1021.6880340576172,516.3980102539062 1030.7080535888672,515.4240112304688 "/>
-   <polyline stroke-width="0.8" id="svg_195" points="1032.0883026123047,513.4929809570312 1043.0983123779297,513.031982421875 "/>
-  </g>
- </g>
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="1600px" height="900px" viewBox="6572 3668 52697 29518" xmlns="http://www.w3.org/2000/svg">
+  <title>Export to SVG</title>
+  <desc>Generated by CADtoSVG Version 1.0: 15/04/2017 22:02:37</desc>
+  <line x1="20405" y1="11412" x2="21205" y2="11548" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="21205" y1="11548" x2="20359" y2="19739" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="20359" y1="19739" x2="19464" y2="19685" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="19464" y1="19685" x2="20405" y2="11412" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="21205" y1="11548" x2="21951" y2="15030" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="21951" y1="15030" x2="21378" y2="20634" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="21378" y1="20634" x2="20359" y2="19739" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="19464" y1="19685" x2="20786" y2="20592" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="20786" y1="20592" x2="21378" y2="20634" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="20443" y1="19411" x2="21386" y2="20356" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="21386" y1="20356" x2="21927" y2="15042" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="21927" y1="15042" x2="21210" y2="12037" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="21210" y1="12037" x2="20443" y2="19411" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="21165" y1="12470" x2="21821" y2="15049" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="21821" y1="15049" x2="21927" y2="15042" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="21821" y1="15049" x2="21287" y2="20257" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="20220" y1="33306" x2="23319" y2="24176" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="23319" y1="24176" x2="23762" y2="24158" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="23319" y1="24176" x2="23742" y2="19160" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="23742" y1="19160" x2="26662" y2="19739" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="26662" y1="19739" x2="34996" y2="19481" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="34996" y1="19481" x2="35642" y2="19748" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="35642" y1="19748" x2="44032" y2="19484" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="34917" y1="23555" x2="35625" y2="23494" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="35625" y1="23494" x2="40543" y2="23718" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="34917" y1="23555" x2="29470" y2="23316" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="26452" y1="23184" x2="26662" y2="19739" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="26452" y1="23184" x2="24794" y2="23214" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="24794" y1="23214" x2="24797" y2="23435" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="24797" y1="23435" x2="24466" y2="23439" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="24466" y1="23439" x2="24459" y2="23658" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="24459" y1="23658" x2="24112" y2="23676" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="24112" y1="23676" x2="24103" y2="23919" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="24103" y1="23919" x2="23760" y2="23919" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="23760" y1="23919" x2="23759" y2="24158" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="23760" y1="23919" x2="44593" y2="25231" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="44593" y1="25231" x2="44610" y2="25546" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="44610" y1="25546" x2="49205" y2="33306" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="44593" y1="25231" x2="44553" y2="25123" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="44553" y1="25123" x2="44553" y2="24835" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="44553" y1="24835" x2="44512" y2="24766" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="44512" y1="24766" x2="44500" y2="24443" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="44500" y1="24443" x2="44453" y2="24391" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="44453" y1="24391" x2="44448" y2="24124" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="44448" y1="24124" x2="44438" y2="24059" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="44438" y1="24059" x2="44222" y2="18645" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="44222" y1="18645" x2="47886" y2="3701" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="27207" y1="19646" x2="25167" y2="19198" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="25167" y1="19198" x2="28899" y2="9516" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="28899" y1="9516" x2="39906" y2="12048" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="39906" y1="12048" x2="41945" y2="19311" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="34996" y1="19481" x2="34917" y2="23555" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="35625" y1="23494" x2="35642" y2="19748" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="40552" y1="23798" x2="44148" y2="23895" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="40552" y1="23798" x2="40523" y2="22452" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="40523" y1="22452" x2="44067" y2="22510" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="44232" y1="18895" x2="44178" y2="19127" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="44178" y1="19127" x2="44353" y2="23850" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="35423" y1="19589" x2="41120" y2="19396" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="41120" y1="19396" x2="37819" y2="12972" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="37819" y1="12972" x2="30775" y2="11542" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="30775" y1="11542" x2="25958" y2="19248" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="25958" y1="19248" x2="27444" y2="19576" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="30394" y1="18772" x2="37326" y2="18362" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="37326" y1="18362" x2="34779" y2="16261" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="30394" y1="18772" x2="34292" y2="16363" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="26710" y1="19777" x2="29681" y2="19690" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="29681" y1="19690" x2="29470" y2="23316" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="29472" y1="23282" x2="26489" y2="23168" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="26489" y1="23168" x2="26490" y2="23181" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="26490" y1="23181" x2="26453" y2="23181" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="26489" y1="23168" x2="26710" y2="19777" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="26845" y1="19969" x2="27474" y2="19960" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="27474" y1="19960" x2="27295" y2="22999" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="27295" y1="22999" x2="26633" y2="22979" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="26633" y1="22979" x2="26845" y2="19969" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="27809" y1="19937" x2="28470" y2="19924" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="28470" y1="19924" x2="28306" y2="23031" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="28306" y1="23031" x2="27647" y2="23009" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="27647" y1="23009" x2="27809" y2="19937" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="27606" y1="19751" x2="27401" y2="23203" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="27637" y1="19750" x2="27454" y2="23205" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="28431" y1="23242" x2="28620" y2="19721" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="28714" y1="19719" x2="28532" y2="23246" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="28666" y1="19720" x2="28483" y2="23244" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="28830" y1="19912" x2="29510" y2="19897" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="29510" y1="19897" x2="29369" y2="23078" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="29369" y1="23078" x2="28673" y2="23052" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="28673" y1="23052" x2="28830" y2="19912" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="24794" y1="23214" x2="44438" y2="24059" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="24797" y1="23435" x2="44453" y2="24391" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="44500" y1="24443" x2="24466" y2="23439" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="24459" y1="23658" x2="44512" y2="24766" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="44553" y1="24835" x2="24112" y2="23676" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="24103" y1="23919" x2="44553" y2="25123" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="23762" y1="24158" x2="44610" y2="25546" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="21748" y1="21231" x2="22158" y2="21234" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="22158" y1="21234" x2="22518" y2="17214" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="22518" y1="17214" x2="22147" y2="17185" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="22147" y1="17185" x2="21748" y2="21231" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="21748" y1="21231" x2="22133" y2="21441" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="22133" y1="21441" x2="22478" y2="21462" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="22478" y1="21462" x2="22158" y2="21234" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="22478" y1="21462" x2="22792" y2="18221" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="22792" y1="18221" x2="22518" y2="17214" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="22544" y1="17437" x2="22771" y2="18243" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="22771" y1="18243" x2="22465" y2="21320" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="22465" y1="21320" x2="22203" y2="21083" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="22203" y1="21083" x2="22544" y2="17437" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="22528" y1="17605" x2="22707" y2="18249" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="22707" y1="18249" x2="22771" y2="18249" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="22707" y1="18249" x2="22404" y2="21264" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="22460" y1="18330" x2="22604" y2="18683" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="22604" y1="18683" x2="22374" y2="20983" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="22374" y1="20983" x2="22226" y2="20835" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="21014" y1="13923" x2="21634" y2="15874" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="21634" y1="15874" x2="21313" y2="19034" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="21313" y1="19034" x2="20593" y2="17974" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="22525" y1="21667" x2="22786" y2="21664" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="22786" y1="21664" x2="22986" y2="19034" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="22986" y1="19034" x2="22761" y2="19027" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="22761" y1="19027" x2="22525" y2="21667" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="22786" y1="21664" x2="22935" y2="21784" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="22935" y1="21784" x2="22730" y2="21784" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="22730" y1="21784" x2="22525" y2="21667" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="22935" y1="21784" x2="23169" y2="19542" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="23169" y1="19542" x2="22986" y2="19034" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="23004" y1="19172" x2="23147" y2="19549" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="23147" y1="19549" x2="22920" y2="21668" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="22920" y1="21668" x2="22821" y2="21573" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="22821" y1="21573" x2="23004" y2="19172" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="22996" y1="19267" x2="23102" y2="19556" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="23102" y1="19556" x2="22893" y2="21641" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="23102" y1="19556" x2="23147" y2="19549" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="22888" y1="21910" x2="23105" y2="21912" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="23105" y1="21912" x2="23264" y2="19976" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="23264" y1="19976" x2="23124" y2="19972" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="22888" y1="21910" x2="22902" y2="21784" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="23264" y1="19976" x2="23351" y2="20287" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="23351" y1="20287" x2="23180" y2="21978" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="23180" y1="21978" x2="23105" y2="21912" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="23180" y1="21978" x2="23016" y2="21978" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="23016" y1="21978" x2="22888" y2="21910" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="23091" y1="22040" x2="23217" y2="22039" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="23217" y1="22039" x2="23282" y2="22089" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="23282" y1="22089" x2="23167" y2="22089" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="23167" y1="22089" x2="23091" y2="22040" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="23091" y1="22040" x2="23098" y2="21978" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="23217" y1="22039" x2="23357" y2="20478" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="23357" y1="20478" x2="23412" y2="20688" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="23412" y1="20688" x2="23282" y2="22089" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="23357" y1="20478" x2="23332" y2="20478" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="23270" y1="20065" x2="23335" y2="20281" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="23335" y1="20281" x2="23175" y2="21895" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="23175" y1="21895" x2="23128" y2="21845" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="23128" y1="21845" x2="23270" y2="20065" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="23263" y1="20153" x2="23310" y2="20285" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="23310" y1="20285" x2="23334" y2="20287" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="23310" y1="20285" x2="23151" y2="21870" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="23742" y1="19160" x2="22824" y2="3701" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="44032" y1="19484" x2="44191" y2="19479" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="45076" y1="20925" x2="45300" y2="20671" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="45300" y1="20671" x2="45408" y2="22621" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="45408" y1="22621" x2="45167" y2="22656" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="45167" y1="22656" x2="45076" y2="20925" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="45300" y1="20671" x2="45512" y2="20682" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="45512" y1="20682" x2="45579" y2="22626" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="45579" y1="22626" x2="45408" y2="22621" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="45167" y1="22656" x2="45579" y2="22626" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="45217" y1="22585" x2="45368" y2="22549" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="45368" y1="22549" x2="45282" y2="20781" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="45282" y1="20781" x2="45116" y2="20968" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="45116" y1="20968" x2="45217" y2="22585" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="45249" y1="22578" x2="45156" y2="20979" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="45156" y1="20979" x2="45285" y2="20839" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="44721" y1="21350" x2="44872" y2="21148" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="44872" y1="21148" x2="44958" y2="22722" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="44958" y1="22722" x2="44806" y2="22736" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="44806" y1="22734" x2="44721" y2="21350" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="44872" y1="21148" x2="45022" y2="21155" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="45022" y1="21155" x2="45087" y2="22719" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="45087" y1="22719" x2="44958" y2="22722" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="44474" y1="21587" x2="44580" y2="21471" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="44580" y1="21471" x2="44649" y2="22784" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="44649" y1="22784" x2="44771" y2="22784" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="44771" y1="22784" x2="44702" y2="21478" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="44702" y1="21478" x2="44580" y2="21471" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="44474" y1="21587" x2="44541" y2="22808" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="44541" y1="22808" x2="44649" y2="22784" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="44541" y1="22808" x2="44771" y2="22784" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="44806" y1="22734" x2="45088" y2="22722" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="6579" y1="33306" x2="6579" y2="3701" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="6579" y1="3701" x2="59212" y2="3701" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="59212" y1="3701" x2="59212" y2="33306" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
+  <line x1="6579" y1="33306" x2="59212" y2="33306" style="stroke: rgb(192, 192, 192); fill: none; stroke-width: 26;"/>
 </svg>
