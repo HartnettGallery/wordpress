@@ -76,6 +76,14 @@ body{
 
   <div id="content" class="clearfix row" style="margin-top:15vh">
 
+    <div>
+      <label class="glyphicon glyphicon-chevron-left" ></label>
+      <span> 2016 - 2017 </span>
+      <label class="glyphicon glyphicon-chevron-right" ></label>
+    </div>
+
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
     <div id="products" class="row list-group">
         <?php $myposts = get_posts(array('tag' => '2017')); foreach($myposts as $post) : setup_postdata($post); ?>
         <div class="item  col-xs-4 col-lg-4">
