@@ -85,7 +85,8 @@ body{
     <p>&nbsp;</p>
     <p>&nbsp;</p>
     <div id="products" class="row list-group">
-        <?php $myposts = get_posts(array('tag' => '2017')); foreach($myposts as $post) : setup_postdata($post); ?>
+        <?php $args = array('tag' => '2014') ?>
+        <?php $myposts = get_posts($args); foreach($myposts as $post) : setup_postdata($post); ?>
         <div class="item  col-xs-4 col-lg-4">
           <div class="thumbnail" style="border:0px black solid">
               <?php the_content(); ?>
