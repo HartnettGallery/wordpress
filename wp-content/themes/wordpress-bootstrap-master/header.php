@@ -109,7 +109,7 @@
         </div>
       </nav> -->
 
-      <nav class="navbar navbar-default navbar-fixed-top navbar-light" style="background-color: transparent; border:0px black dotted; min-height:12%;">
+      <nav class="navbar navbar-default navbar-fixed-top navbar-light" style="background-color: white; border:0px black dotted; min-height:12%;">
         <div class="container" style="border:0px blue dotted; width:100%; min-height:12vh">
           <div class="navbar-header" style="border:0px green solid;min-height:inherit">
             <!-- <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -121,7 +121,7 @@
             <a class="navbar-brand" style="border:0px red solid;min-height:inherit" href="http://blogs.rochester.edu/hartnett/"><img src="/hartnett/wp-content/themes/wordpress-bootstrap-master/hartnett/Logo.svg" style="max-width:100%;max-height:100%;">
           </div>
           <div id="navbar" class="collapse navbar-collapse" style="border:0px red solid;min-height:inherit; font-weight:800;">
-            <ul class="nav navbar-nav navbar-right" style="margin-top:3vh; margin-right:1vw">
+            <ul class="nav navbar-nav navbar-right" style="margin-top:3vh; margin-right:1vw;">
               <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="font-size:4rem">PROPOSALS</span></a>
                 <ul class="dropdown-menu" style="left: 0;right: auto;">
@@ -138,7 +138,13 @@
                   <li><a href="#">SEARCH</a></li>
                 </ul>
               </li>
-              <li><a href="/#" style="font-size:4rem">ABOUT US</a></li>
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="font-size:4rem">ABOUT US</span></a>
+                <ul class="dropdown-menu" style="left: auto;right: 0;">
+                  <li><a href="/hartnett/about">ABOUT</a></li>
+                  <li><a href="/hartnett/committee">COMMITTEE</a></li>
+                </ul>
+              </li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>
@@ -147,3 +153,4 @@
     </header> <!-- end header -->
 
     <div class="container">
+

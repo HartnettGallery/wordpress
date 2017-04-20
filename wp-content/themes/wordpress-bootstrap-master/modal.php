@@ -54,14 +54,9 @@ Template Name: Modal
 body{
   background-image: url('/hartnett/wp-content/themes/wordpress-bootstrap-master/hartnett/modal.svg');
   height:100vh;
-  background-size: 100%;
-}
-img {
-  /*display: block;
-  max-width:230px;
-  max-height:95px;
-  width: auto;
-  height: auto;*/
+  /*background-repeat: no-repeat;*/
+  /*background-position: left;*/
+  background-size: 120%;
 }
 </style>
 
