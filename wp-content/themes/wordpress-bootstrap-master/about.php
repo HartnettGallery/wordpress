@@ -75,7 +75,7 @@ Template Name: About
       </div>
 <style>
 body{
-  background-image: url('/wp-content/themes/wordpress-bootstrap-master/hartnett/proposal_old.svg');
+  background-image: url('/hartnett/wp-content/themes/wordpress-bootstrap-master/hartnett/proposal_old.svg');
   height:100vh;
   background-size: 100%;
 }
