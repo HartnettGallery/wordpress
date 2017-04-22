@@ -6,7 +6,7 @@ Template Name: Proposal
 
 <?php get_header(); ?>
 
-      <div id="content" class="clearfix row" style="margin-top:10vh">
+      <div id="content" class="clearfix row" style="margin-top:10vh; margin-bottom:10vh">
 
         <div id="main" class="clearfix" role="main" style="padding-right:20rem;padding-left:10rem; border:0px red solid">
 
@@ -73,8 +73,9 @@ Template Name: Proposal
       </div>
 <style>
 body{
-  background-image: url('/hartnett/wp-content/themes/wordpress-bootstrap-master/hartnett/proposal.svg');
+  background-image: url('/hartnett/wp-content/themes/wordpress-bootstrap-master/hartnett/proposal_old.svg');
   height:100vh;
+  background-position: 120%;
   background-size: 100%;
 }
 </style>

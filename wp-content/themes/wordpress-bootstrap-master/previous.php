@@ -68,16 +68,16 @@ Template Name: Previous
     margin: 0 0 11px;
 }
 body{
-  background-image: url('/hartnett/wp-content/themes/wordpress-bootstrap-master/hartnett/current.svg');
+  background-image: url('/hartnett/wp-content/themes/wordpress-bootstrap-master/hartnett/current_old.svg');
   height:100vh;
   background-size: 100%;
 }
 </style>
 
-  <div id="content" class="clearfix row" style="margin-top:15vh">
+  <div id="content" class="clearfix row" style="margin-top:15vh; margin-bottom:10vh">
 
     <div>
-      <label class="glyphicon glyphicon-chevron-left" ></label>
+      <label class="glyphicon glyphicon-chevron-left" style="size:120%;"></label>
       <span> 2016 - 2017 </span>
       <label class="glyphicon glyphicon-chevron-right" ></label>
     </div>
@@ -85,7 +85,7 @@ body{
     <p>&nbsp;</p>
     <p>&nbsp;</p>
     <div id="products" class="row list-group">
-        <?php $args = array('tag' => '2014') ?>
+        <?php $args = array('tag' => '2017') ?>
         <?php $myposts = get_posts($args); foreach($myposts as $post) : setup_postdata($post); ?>
         <div class="item  col-xs-4 col-lg-4">
           <div class="thumbnail" style="border:0px black solid">
@@ -111,6 +111,9 @@ body{
         </div>
       <?php endforeach; wp_reset_postdata(); ?>
     </div>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
 
       </div> <!-- end #content -->
 

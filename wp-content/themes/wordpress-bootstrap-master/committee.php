@@ -93,9 +93,10 @@ Template Name: Committee
       </div>
 <style>
 body{
-  background-image: url('/wp-content/themes/wordpress-bootstrap-master/hartnett/proposal.svg');
+  background-image: url('/wp-content/themes/wordpress-bootstrap-master/hartnett/proposal_old.svg');
   height:100vh;
   background-size: 100%;
+  background-repeat:round;
 }
 </style>
 
