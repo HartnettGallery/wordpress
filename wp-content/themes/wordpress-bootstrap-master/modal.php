@@ -17,8 +17,8 @@ Template Name: Modal
 
         <!-- Modal TODO: (mohan) decide position and hide-->
         <!-- Modal TODO: (mohan) put the modal back-->
-        <div class="modal fade in" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" style="display:block;">
-          <div class="modal-dialog" role="document" style="position:absolute; left:10vw; top:20vh; width:auto;">
+        <div class="modal fade in" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" style="display:block; z-index:0;" data-backdrop="false">
+          <div class="modal-dialog" role="document" style="position:absolute; left:33vw; top:20vh; width:auto;">
             <div class="modal-content img-responsive" style="display:block; background-size:100% 100%;">
               <div class="modal-header" style="border-bottom:0px">
                 <button id="closeModal" type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -62,7 +62,7 @@ Template Name: Modal
 
 <style>
 body{
-  background-image: url('/wp-content/themes/wordpress-bootstrap-master/hartnett/modal.svg');
+  background-image: url('/wp-content/themes/wordpress-bootstrap-master/hartnett/modal_old.svg');
   height:100vh;
   /*background-repeat: no-repeat;*/
   /*background-position: left;*/

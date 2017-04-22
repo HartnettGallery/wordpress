@@ -61,7 +61,7 @@ column-rule: none;">
       </div> <!-- end #content -->
 <style>
 body{
-  background-image: url('/wp-content/themes/wordpress-bootstrap-master/hartnett/current.svg');
+  background-image: url('/wp-content/themes/wordpress-bootstrap-master/hartnett/current_old.svg');
   height:100vh;
   background-size: 100%;
 }

@@ -118,7 +118,7 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button> -->
-            <a class="navbar-brand" style="border:0px red solid;min-height:inherit" href="http://blogs.rochester.edu/hartnett/"><img src="/wp-content/themes/wordpress-bootstrap-master/hartnett/Logo.svg" style="max-width:100%;max-height:100%;">
+            <a class="navbar-brand" style="border:0px red solid;min-height:inherit" href="http://blogs.rochester.edu/hartnett/index"><img src="/wp-content/themes/wordpress-bootstrap-master/hartnett/Logo.svg" style="max-width:100%;max-height:100%;">
           </div>
           <div id="navbar" class="collapse navbar-collapse" style="border:0px red solid;min-height:inherit; font-weight:800;">
             <ul class="nav navbar-nav navbar-right" style="margin-top:3vh; margin-right:1vw;">

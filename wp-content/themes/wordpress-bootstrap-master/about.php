@@ -6,7 +6,7 @@ Template Name: About
 
 <?php get_header(); ?>
 
-      <div id="content" class="clearfix row" style="margin-top:10vh">
+      <div id="content" class="clearfix row" style="margin-top:10vh; margin-bottom:10vh">
 
         <div id="main" class="clearfix" role="main" style="padding-right:20rem;padding-left:10rem; border:0px red solid">
 
@@ -37,7 +37,9 @@ Template Name: About
             Rochester, NY 14627<br>
             (585) 275-4188</p>
             </div>
-
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
             </section>
 
             <!-- </section> -->
@@ -73,7 +75,7 @@ Template Name: About
       </div>
 <style>
 body{
-  background-image: url('/wp-content/themes/wordpress-bootstrap-master/hartnett/proposal.svg');
+  background-image: url('/wp-content/themes/wordpress-bootstrap-master/hartnett/proposal_old.svg');
   height:100vh;
   background-size: 100%;
 }

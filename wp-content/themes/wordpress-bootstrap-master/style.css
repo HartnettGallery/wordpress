@@ -34,24 +34,24 @@ body{
 }
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus{
   background-color: white;
-  color: black;
+  color: rgb(50,50,50);
 }
 
 .navbar-inverse .navbar-brand{
-  color: black;
+  color: rgb(50,50,50);
 }
 
 .navbar-inverse .navbar-nav>li>a{
-  color: black;
+  color: rgb(50,50,50);
 }
 
 .navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus{
-  color: black;
+  color: rgb(50,50,50);
 }
 
 .navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus{
   background-color: white;
-  color: black;
+  color: rgb(50,50,50);
   text-decoration: underline;
 }
 .navbar-inverse .navbar-nav>li>a{
@@ -94,6 +94,6 @@ svg {
   padding:10px 20px;
 }
 .dropdown-menu>li>a:hover{
-  background-color: black;
+  background-color: rgb(50,50,50);
   color:white;
 }
