@@ -24,7 +24,7 @@ Template Name: Modal
               <!-- <div class="modal-header" style="border-bottom:0px">
                 <button id="closeModal" type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
               </div> -->
-              <img width="50" height="50" src="/wp-content/themes/wordpress-bootstrap-master/hartnett/expand.png" onclick="opencusmodal()">
+              <img width="50" height="50" src="/hartnett/wp-content/themes/wordpress-bootstrap-master/hartnett/expand.png" onclick="opencusmodal()">
             </div>
           </div>
         </div>
