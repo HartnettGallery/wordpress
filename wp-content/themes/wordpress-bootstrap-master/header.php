@@ -31,6 +31,9 @@
     <!--[if lt IE 9]>
               <script type='text/javascript' src="http://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js"></script>
     <![endif]-->
+    <link rel="stylesheet" type="text/css" href="/wp-content/themes/wordpress-bootstrap-master/library/slick/slick.css"/>
+    // Add the new slick-theme.css if you want the default styling
+    <link rel="stylesheet" type="text/css" href="/wp-content/themes/wordpress-bootstrap-master/library/slick/slick-theme.css"/>
   </head>
 
   <body <?php body_class(); ?>>
@@ -126,7 +129,7 @@
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="font-size:4rem">PROPOSALS</span></a>
                 <ul class="dropdown-menu" style="left: 0;right: auto;">
                   <li><a href="/proposal">SUBMIT</a></li>
-                  <li><a href="#">FLOOR PLAN</a></li>
+                  <li><a href="/floorplan">FLOOR PLAN</a></li>
                   <li><a href="#">PICTURES</a></li>
                 </ul>
               </li>

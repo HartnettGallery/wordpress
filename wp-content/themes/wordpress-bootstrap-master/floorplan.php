@@ -10,14 +10,11 @@ Template Name: Floorplan
 
         <div id="main" class="clearfix" role="main" style="padding-right:20rem;padding-left:10rem; border:0px red solid">
 
-        <!-- <div class='single-item'>
-          <div><h3>1</h3></div>
-          <div><h3>2</h3></div>
-          <div><h3>3</h3></div>
-          <div><h3>4</h3></div>
-          <div><h3>5</h3></div>
-          <div><h3>6</h3></div>
-        </div> -->
+        <div class="your-class">
+          <div>your content</div>
+          <div>your content</div>
+          <div>your content</div>
+        </div>
 
         </div>
 
@@ -37,17 +34,5 @@ body{
   background: white;
 }
 </style>
-<!-- slick support -->
-<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
-<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
-
-<!-- 
-<script type="text/javascript">
-  jQuery(function($) {
-    $(".single-item").slick({
-      dots: true
-    });
-  });
-</script> -->
 
 <?php get_footer(); ?>
