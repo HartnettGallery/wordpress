@@ -130,7 +130,7 @@
                 <ul class="dropdown-menu" style="left: 0;right: auto;">
                   <li><a href="/proposal">SUBMIT</a></li>
                   <li><a href="/floorplan">FLOOR PLAN</a></li>
-                  <li><a href="#">PICTURES</a></li>
+                  <li><a href="/pictures">PICTURES</a></li>
                 </ul>
               </li>
               <li class="dropdown">
