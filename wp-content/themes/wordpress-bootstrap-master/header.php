@@ -31,9 +31,9 @@
     <!--[if lt IE 9]>
               <script type='text/javascript' src="http://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js"></script>
     <![endif]-->
-    <link rel="stylesheet" type="text/css" href="/wp-content/themes/wordpress-bootstrap-master/library/slick/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="/hartnett/wp-content/themes/wordpress-bootstrap-master/library/slick/slick.css"/>
     // Add the new slick-theme.css if you want the default styling
-    <link rel="stylesheet" type="text/css" href="/wp-content/themes/wordpress-bootstrap-master/library/slick/slick-theme.css"/>
+    <link rel="stylesheet" type="text/css" href="/hartnett/wp-content/themes/wordpress-bootstrap-master/library/slick/slick-theme.css"/>
   </head>
 
   <body <?php body_class(); ?>>

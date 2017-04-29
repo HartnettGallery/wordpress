@@ -129,7 +129,7 @@
     <script src="//localhost:35729/livereload.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-    <script type="text/javascript" src="/wp-content/themes/wordpress-bootstrap-master/library/slick/slick.min.js"></script>
+    <script type="text/javascript" src="/hartnett/wp-content/themes/wordpress-bootstrap-master/library/slick/slick.min.js"></script>
     <script type="text/javascript">
       jQuery(function($) {
         $(".your-class").slick({
