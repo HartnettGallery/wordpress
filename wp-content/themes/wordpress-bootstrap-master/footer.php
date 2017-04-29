@@ -133,7 +133,10 @@
     <script type="text/javascript">
       jQuery(function($) {
         $(".your-class").slick({
-          dots: true
+          arrows: true
+        });
+        $('.multiple-items').slick({
+          slidesToShow: 5,
         });
       });
     </script>
