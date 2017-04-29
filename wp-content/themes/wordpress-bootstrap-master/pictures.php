@@ -8,17 +8,24 @@ Template Name: Pictures
 
       <div id="content" class="clearfix row" style="margin-top:10vh; margin-bottom:10vh">
 
-        <div id="main" class="clearfix" role="main" style="padding-right:20rem;padding-left:10rem; border:0px red solid">
 
-        <!-- <div class='single-item'>
-          <div><h3>1</h3></div>
-          <div><h3>2</h3></div>
-          <div><h3>3</h3></div>
-          <div><h3>4</h3></div>
-          <div><h3>5</h3></div>
-          <div><h3>6</h3></div>
-        </div> -->
+        <div class="your-class">
+          <div><img class = "floorplan" src="/wp-content/themes/wordpress-bootstrap-master/hartnett/pictures/1.jpg" /></div>
+          <div><img class = "floorplan" src="/wp-content/themes/wordpress-bootstrap-master/hartnett/pictures/2.jpg" /></div>
+          <div><img class = "floorplan" src="/wp-content/themes/wordpress-bootstrap-master/hartnett/pictures/3.jpg" /></div>
+          <div><img class = "floorplan" src="/wp-content/themes/wordpress-bootstrap-master/hartnett/pictures/4.jpg" /></div>
+          <div><img class = "floorplan" src="/wp-content/themes/wordpress-bootstrap-master/hartnett/pictures/5.jpg" /></div>
+        </div>
 
+        <p> &nbsp </p>
+        <p> &nbsp </p>
+
+        <div class="multiple-items">
+          <div><img class = "floorplan_multiitem" src="/wp-content/themes/wordpress-bootstrap-master/hartnett/pictures/1.jpg" /></div>
+          <div><img class = "floorplan_multiitem" src="/wp-content/themes/wordpress-bootstrap-master/hartnett/pictures/2.jpg" /></div>
+          <div><img class = "floorplan_multiitem" src="/wp-content/themes/wordpress-bootstrap-master/hartnett/pictures/3.jpg" /></div>
+          <div><img class = "floorplan_multiitem" src="/wp-content/themes/wordpress-bootstrap-master/hartnett/pictures/4.jpg" /></div>
+          <div><img class = "floorplan_multiitem" src="/wp-content/themes/wordpress-bootstrap-master/hartnett/pictures/5.jpg" /></div>
         </div>
 
       </div>
@@ -27,6 +34,7 @@ body{
   background-image: url('/wp-content/themes/wordpress-bootstrap-master/hartnett/proposal_old.svg');
   height:100vh;
   background-size: 100%;
+
 }
 .single-item{
   border: 1px red solid;
@@ -36,18 +44,32 @@ body{
   color: #419be0;
   background: white;
 }
-</style>
-<!-- slick support -->
-<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
-<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+.your-class {
+  /*border:1px red solid;*/
+  width:auto;
+  height:100%;
+}
 
-<!--
-<script type="text/javascript">
-  jQuery(function($) {
-    $(".single-item").slick({
-      dots: true
-    });
-  });
-</script> -->
+.floorplan {
+  width: 100%;
+  max-height: 50vh;
+  margin: auto;
+  display: block;
+}
+.multiple-items {
+
+  margin-left: 0vw;
+  width:100%;
+}
+
+.floorplan_multiitem {
+  padding:10px;
+  width: 100%;
+  height: auto;
+  max-height: 20vh;
+  margin: auto;
+  display: block;
+}
+</style>
 
 <?php get_footer(); ?>

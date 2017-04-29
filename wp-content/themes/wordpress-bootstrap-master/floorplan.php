@@ -28,8 +28,6 @@ Template Name: Floorplan
           <div><img class = "floorplan_multiitem" src="/wp-content/themes/wordpress-bootstrap-master/hartnett/FloorPlanGallery/HartnettFloorPlan.jpg" /></div>
         </div>
 
-
-
       </div>
 <style>
 body{
