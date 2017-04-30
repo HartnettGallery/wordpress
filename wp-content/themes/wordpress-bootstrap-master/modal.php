@@ -81,9 +81,9 @@ body{
   background-image: url('/hartnett/wp-content/themes/wordpress-bootstrap-master/hartnett/modal_old.svg');
 
   height:100vh;
-  /*background-repeat: no-repeat;*/
-  /*background-position: left;*/
-  background-size: 120%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 80%;
   background-attachment: fixed;
 }
 </style>
