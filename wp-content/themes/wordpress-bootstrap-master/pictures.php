@@ -10,22 +10,22 @@ Template Name: Pictures
 
 
         <div class="your-class">
-          <div><img class = "floorplan" src="/hartnett/wp-content/themes/wordpress-bootstrap-master/hartnett/pictures/1.jpg" /></div>
-          <div><img class = "floorplan" src="/hartnett/wp-content/themes/wordpress-bootstrap-master/hartnett/pictures/2.jpg" /></div>
-          <div><img class = "floorplan" src="/hartnett/wp-content/themes/wordpress-bootstrap-master/hartnett/pictures/3.jpg" /></div>
-          <div><img class = "floorplan" src="/hartnett/wp-content/themes/wordpress-bootstrap-master/hartnett/pictures/4.jpg" /></div>
-          <div><img class = "floorplan" src="/hartnett/wp-content/themes/wordpress-bootstrap-master/hartnett/pictures/5.jpg" /></div>
+          <div><img class = "floorplan" src="/hartnett/wp-content/themes/wordpress-bootstrap-master/hartnett/pictures/1.JPG" /></div>
+          <div><img class = "floorplan" src="/hartnett/wp-content/themes/wordpress-bootstrap-master/hartnett/pictures/2.JPG" /></div>
+          <div><img class = "floorplan" src="/hartnett/wp-content/themes/wordpress-bootstrap-master/hartnett/pictures/3.JPG" /></div>
+          <div><img class = "floorplan" src="/hartnett/wp-content/themes/wordpress-bootstrap-master/hartnett/pictures/4.JPG" /></div>
+          <div><img class = "floorplan" src="/hartnett/wp-content/themes/wordpress-bootstrap-master/hartnett/pictures/5.JPG" /></div>
         </div>
 
         <p> &nbsp </p>
         <p> &nbsp </p>
 
         <div class="multiple-items">
-          <div><img class = "floorplan_multiitem" src="/hartnett/wp-content/themes/wordpress-bootstrap-master/hartnett/pictures/1.jpg" /></div>
-          <div><img class = "floorplan_multiitem" src="/hartnett/wp-content/themes/wordpress-bootstrap-master/hartnett/pictures/2.jpg" /></div>
-          <div><img class = "floorplan_multiitem" src="/hartnett/wp-content/themes/wordpress-bootstrap-master/hartnett/pictures/3.jpg" /></div>
-          <div><img class = "floorplan_multiitem" src="/hartnett/wp-content/themes/wordpress-bootstrap-master/hartnett/pictures/4.jpg" /></div>
-          <div><img class = "floorplan_multiitem" src="/hartnett/wp-content/themes/wordpress-bootstrap-master/hartnett/pictures/5.jpg" /></div>
+          <div><img class = "floorplan_multiitem" src="/hartnett/wp-content/themes/wordpress-bootstrap-master/hartnett/pictures/1.JPG" /></div>
+          <div><img class = "floorplan_multiitem" src="/hartnett/wp-content/themes/wordpress-bootstrap-master/hartnett/pictures/2.JPG" /></div>
+          <div><img class = "floorplan_multiitem" src="/hartnett/wp-content/themes/wordpress-bootstrap-master/hartnett/pictures/3.JPG" /></div>
+          <div><img class = "floorplan_multiitem" src="/hartnett/wp-content/themes/wordpress-bootstrap-master/hartnett/pictures/4.JPG" /></div>
+          <div><img class = "floorplan_multiitem" src="/hartnett/wp-content/themes/wordpress-bootstrap-master/hartnett/pictures/5.JPG" /></div>
         </div>
 
       </div>
