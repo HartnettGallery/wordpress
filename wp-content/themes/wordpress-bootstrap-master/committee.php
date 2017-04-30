@@ -96,7 +96,8 @@ body{
   background-image: url('/wp-content/themes/wordpress-bootstrap-master/hartnett/proposal_old.svg');
   height:100vh;
   background-size: 100%;
-  background-repeat:round;
+  /*background-repeat:round;*/
+  background-attachment: fixed;
 }
 </style>
 

@@ -34,6 +34,7 @@ body{
   background-image: url('/wp-content/themes/wordpress-bootstrap-master/hartnett/proposal_old.svg');
   height:100vh;
   background-size: 100%;
+  background-attachment: fixed;
 
 }
 .single-item{

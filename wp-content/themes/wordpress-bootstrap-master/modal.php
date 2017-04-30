@@ -93,6 +93,7 @@ body{
   /*background-repeat: no-repeat;*/
   /*background-position: left;*/
   background-size: 120%;
+  background-attachment: fixed;
 }
 </style>
 
