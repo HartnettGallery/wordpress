@@ -34,7 +34,9 @@ Template Name: Floorplan
 body{
   background-image: url('/wp-content/themes/wordpress-bootstrap-master/hartnett/proposal_old.svg');
   height:100vh;
-  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 80%;
   background-attachment: fixed;
 }
 .single-item{
