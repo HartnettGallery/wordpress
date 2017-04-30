@@ -89,7 +89,7 @@
         <div class="container" style="border:0px white dotted; width:auto; float:left;min-height:9vh;padding:0px; color:white; font-weight:800; font-size:12.4vh; line-height:8.4vh; margin-left:-0.5vw;">
           HARTNETT
         </div>
-        <ul class="nav navbar-nav navbar-right socialLinks" style="border:0px white dotted;min-height:9vh; margin-right:1vw; width:auto; max-height:9vh; max-width:60%; float:right;">
+        <ul class="nav navbar-nav navbar-right socialLinks" style="border:0px white dotted;min-height:9vh; margin-right:1vw; width:auto; max-height:9vh; max-width:60%; float:right; padding-top:0.3%;">
           <li><a href="https://www.facebook.com/hartnettgallery/" >
             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 49.652 49.652" style="enable-background:new 0 0 49.652 49.652;" xml:space="preserve">
             <g>
@@ -113,7 +113,7 @@
             <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> </svg>
             </a>
           </li>
-          <li><a href="https://ccc.rochester.edu/organization/hartnettgallerycommittee" style="color: white; font-size: 4vh; padding-top:25%; font-weight:100;">CCC</a></li>
+          <li><a href="https://ccc.rochester.edu/organization/hartnettgallerycommittee" style="color: white; font-size: 4vh; padding-top:30%; font-weight:100;">CCC</a></li>
         </ul>
       </footer>
 
