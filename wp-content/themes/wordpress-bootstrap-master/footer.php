@@ -86,7 +86,7 @@
 
 
       <footer class="footer navbar navbar-fixed-bottom navbar-inverse" style="background-color: rgb(50,50,50);min-height:9vh">
-        <div class="container" style="border:0px white dotted; width:auto; float:left;min-height:9vh;padding:0px; color:white; font-weight:800; font-size:12.2vh; line-height:8.3vh; margin-left:-0.2vw;">
+        <div class="container" style="border:0px white dotted; width:auto; float:left;min-height:9vh;padding:0px; color:white; font-weight:800; font-size:12.4vh; line-height:8.4vh; margin-left:-0.5vw;">
           HARTNETT
         </div>
         <ul class="nav navbar-nav navbar-right socialLinks" style="border:0px white dotted;min-height:9vh; margin-right:1vw; width:auto; max-height:9vh; max-width:60%; float:right;">
