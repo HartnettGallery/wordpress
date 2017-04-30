@@ -62,6 +62,7 @@ body{
   background-image: url('/hartnett/wp-content/themes/wordpress-bootstrap-master/hartnett/current_old.svg');
   height:100vh;
   background-size: 100%;
+  background-attachment: fixed;
 }
 </style>
 

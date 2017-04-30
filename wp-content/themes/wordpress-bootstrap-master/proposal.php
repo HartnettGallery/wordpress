@@ -77,6 +77,7 @@ body{
   height:100vh;
   background-position: 120%;
   background-size: 100%;
+  background-attachment: fixed;
 }
 </style>
 
