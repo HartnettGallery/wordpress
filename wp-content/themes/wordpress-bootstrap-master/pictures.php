@@ -54,7 +54,8 @@ body{
 }
 
 .floorplan {
-  width: 100%;
+  width: auto;
+  height:auto;
   max-height: 50vh;
   margin: auto;
   display: block;
