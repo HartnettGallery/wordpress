@@ -77,7 +77,7 @@ body{
 }
 </style>
 
-  <div id="content" class="clearfix row" style="margin-top:15vh; margin-bottom:10vh">
+  <div id="content" class="clearfix row" style="margin-top:15vh; margin-bottom:10vh;  margin-left:3vw; margin-right:2vw;">
 
     <div>
       <label class="glyphicon glyphicon-chevron-left" style="size:120%;"></label>

@@ -6,7 +6,7 @@ Template Name: Pictures
 
 <?php get_header(); ?>
 
-      <div id="content" class="clearfix row" style="margin-top:10vh; margin-bottom:10vh">
+      <div id="content" class="clearfix row" style="margin-top:10vh; margin-bottom:10vh; width:80%; margin-left:10%;">
 
 
         <div class="your-class">
