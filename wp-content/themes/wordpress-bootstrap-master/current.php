@@ -6,7 +6,7 @@ Template Name: Current
 
 <?php get_header(); ?>
 
-      <div id="content" class="clearfix row" style="margin-top:15vh; margin-bottom:12vh">
+      <div id="content" class="clearfix row" style="margin-top:15vh; margin-bottom:12vh; margin-left:2vw; margin-right:2vw;">
 
         <div id="main" class="clearfix" role="main" style="-moz-column-count: 2;
 -moz-column-gap: 1.5em;
