@@ -46,7 +46,7 @@ body{
 .slick-slide {
   text-align: center;
   color: #419be0;
-  background: white;
+  background: transparent;
 }
 .your-class {
   /*border:1px red solid;*/
