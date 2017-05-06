@@ -75,6 +75,12 @@ body{
   background-size: 80%;
   background-attachment: fixed;
 }
+
+.lead > img {
+  /*border:1px red solid;*/
+  width:100$;
+  max-height: 20vh;
+}
 </style>
 
   <div id="content" class="clearfix row" style="margin-top:15vh; margin-bottom:10vh;  margin-left:3vw; margin-right:2vw;">
