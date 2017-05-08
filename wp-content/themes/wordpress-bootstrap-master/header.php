@@ -138,7 +138,7 @@
                 <ul class="dropdown-menu" style="left: 0;right: auto;">
                   <li><a href="/current">CURRENT</a></li>
                   <li><a href="/previous">PREVIOUS</a></li>
-                  <li><a href="#">SEARCH</a></li>
+                  <!-- <li><a href="#">SEARCH</a></li> -->
                 </ul>
               </li>
               <li class="dropdown">
