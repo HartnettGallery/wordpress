@@ -11,12 +11,12 @@ Template Name: Previous
 .glyphicon { margin-right:5px; }
 .thumbnail
 {
-    margin-bottom: 20px;
-    padding: 10px;
-    /*-webkit-border-radius: 0px;*/
-    /*-moz-border-radius: 0px;*/
-    /*border-radius: 0px;*/
-    border:0px;
+    margin-bottom: 21px;
+    padding: 11px;
+    /*-webkit-border-radius: 1px;*/
+    /*-moz-border-radius: 1px;*/
+    /*border-radius: 1px;*/
+    border:1px;
     background-color: transparent;
 }
 
@@ -25,7 +25,7 @@ Template Name: Previous
     float: none;
     width: 100%;
     background-color: #fff;
-    margin-bottom: 10px;
+    margin-bottom: 11px;
 }
 .item.list-group-item:nth-of-type(odd):hover,.item.list-group-item:hover
 {
@@ -34,15 +34,15 @@ Template Name: Previous
 
 .item.list-group-item .list-group-image
 {
-    margin-right: 10px;
+    margin-right: 11px;
 }
 .item.list-group-item .thumbnail
 {
-    margin-bottom: 0px;
+    margin-bottom: 1px;
 }
 .item.list-group-item .caption
 {
-    padding: 9px 9px 0px 9px;
+    padding: 9px 9px 1px 9px;
 }
 .item.list-group-item:nth-of-type(odd)
 {
@@ -81,44 +81,72 @@ body{
   width:100$;
   max-height: 20vh;
 }
+
+.posts {
+  display: none;
+}
+.img_2017 {
+  display: block;
+}
 </style>
 
   <div id="content" class="clearfix row" style="margin-top:15vh; margin-bottom:10vh;  margin-left:3vw; margin-right:2vw;">
 
     <div>
-      <label class="glyphicon glyphicon-chevron-left" style="size:120%;"></label>
-      <span> 2016 - 2017 </span>
-      <label class="glyphicon glyphicon-chevron-right" ></label>
+      <label class="glyphicon glyphicon-chevron-left" style="size:120%;" onclick="previous()"></label>
+      <span id="year">2017</span>
+      <label class="glyphicon glyphicon-chevron-right" onclick="next()"></label>
     </div>
 
     <p>&nbsp;</p>
     <p>&nbsp;</p>
     <div id="products" class="row list-group">
-        <?php $args = array('tag' => '2017') ?>
-        <?php $myposts = get_posts($args); foreach($myposts as $post) : setup_postdata($post); ?>
-        <div class="item  col-xs-4 col-lg-4">
-          <div class="thumbnail" style="border:0px black solid">
-              <?php the_content(); ?>
-              <!-- <img class="group list-group-image" src="http://placehold.it/400x250/000/fff" alt="" /> -->
-              <!-- <div class="caption">
-                  <h4 class="group inner list-group-item-heading">
-                      Product title</h4>
-                  <p class="group inner list-group-item-text">
-                      Product description... Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
-                      sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
-                  <div class="row">
-                      <div class="col-xs-12 col-md-6">
-                          <p class="lead">
-                              $21.000</p>
-                      </div>
-                      <div class="col-xs-12 col-md-6">
-                          <a class="btn btn-success" href="http://www.jquery2dotnet.com">Add to cart</a>
-                      </div>
-                  </div>
-              </div> -->
-          </div>
+
+      <?php $args = array("tag" => "2017") ?>
+      <?php $myposts = get_posts($args); foreach($myposts as $post) : setup_postdata($post); ?>
+      <div class="item  col-xs-4 col-lg-4 img_2017 posts">
+        <div class="thumbnail" style="border:0px black solid">
+            <?php the_content(); ?>
         </div>
+      </div>
       <?php endforeach; wp_reset_postdata(); ?>
+
+      <?php $args = array("tag" => "2016") ?>
+      <?php $myposts = get_posts($args); foreach($myposts as $post) : setup_postdata($post); ?>
+      <div class="item  col-xs-4 col-lg-4 img_2016 posts">
+        <div class="thumbnail" style="border:0px black solid">
+            <?php the_content(); ?>
+        </div>
+      </div>
+      <?php endforeach; wp_reset_postdata(); ?>
+
+      <?php $args = array("tag" => "2015") ?>
+      <?php $myposts = get_posts($args); foreach($myposts as $post) : setup_postdata($post); ?>
+      <div class="item  col-xs-4 col-lg-4 img_2015 posts">
+        <div class="thumbnail" style="border:0px black solid">
+            <?php the_content(); ?>
+        </div>
+      </div>
+      <?php endforeach; wp_reset_postdata(); ?>
+
+      <?php $args = array("tag" => "2014") ?>
+      <?php $myposts = get_posts($args); foreach($myposts as $post) : setup_postdata($post); ?>
+      <div class="item  col-xs-4 col-lg-4 img_2014 posts">
+        <div class="thumbnail" style="border:0px black solid">
+            <?php the_content(); ?>
+        </div>
+      </div>
+      <?php endforeach; wp_reset_postdata(); ?>
+
+      <?php $args = array("tag" => "2013") ?>
+      <?php $myposts = get_posts($args); foreach($myposts as $post) : setup_postdata($post); ?>
+      <div class="item  col-xs-4 col-lg-4 img_2013 posts">
+        <div class="thumbnail" style="border:0px black solid">
+            <?php the_content(); ?>
+        </div>
+      </div>
+      <?php endforeach; wp_reset_postdata(); ?>
+
     </div>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
@@ -127,3 +155,28 @@ body{
       </div> <!-- end #content -->
 
 <?php get_footer(); ?>
+
+<script>
+    function next() {
+      var years = ["2017", "2016", "2015", "2014", "2013"]
+      var year = document.getElementById("year").innerHTML
+      var index = years.indexOf(year)
+      if (index != (years.length-1)){
+        $('.img_'+year).css("display", "none")
+        year = years[index+1]
+        $('.img_'+year).css("display", "block")
+        document.getElementById("year").innerHTML = year
+      }
+    };
+    function previous() {
+      var years = ["2017", "2016", "2015", "2014", "2013"]
+      var year = document.getElementById("year").innerHTML
+      var index = years.indexOf(year)
+      if (index != 0){
+        $('.img_'+year).css("display", "none")
+        year = years[index-1]
+        $('.img_'+year).css("display", "block")
+        document.getElementById("year").innerHTML = year
+      }
+    };
+</script>
