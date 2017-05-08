@@ -23,7 +23,7 @@ Template Name: Modal
               <div class="modal-header" style="border-bottom:0px">
                 <button id="closeModal" type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
               </div>
-              <img width="545" height="350" src="/wp-content/themes/wordpress-bootstrap-master/hartnett/RapturePostcardBack.jpg">
+              <img width="545" height="350" src="https://lh5.googleusercontent.com/0thl_HGU11dTP25SZtRE6JQCpmhLnfy5LX722K1iuXhx4FqdqfUjr7-dDrFTV5iD529gdFH-ZbWgZQA=w3360-h1905-rw">
             </div>
           </div>
         </div>
