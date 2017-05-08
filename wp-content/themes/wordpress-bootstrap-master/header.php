@@ -138,7 +138,6 @@
                 <ul class="dropdown-menu" style="left: 0;right: auto;">
                   <li><a href="/hartnett/current">CURRENT</a></li>
                   <li><a href="/hartnett/previous">PREVIOUS</a></li>
-                  <li><a href="#">SEARCH</a></li>
                 </ul>
               </li>
               <li class="dropdown">
