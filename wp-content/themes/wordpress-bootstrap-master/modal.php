@@ -17,13 +17,15 @@ Template Name: Modal
 
         <!-- Modal TODO: (mohan) decide position and hide-->
         <!-- Modal TODO: (mohan) put the modal back-->
+
+          <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
         <div class="modal fade in" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" style="display:block; z-index:0;" data-backdrop="false">
           <div class="modal-dialog" role="document" style="position:absolute; left:33vw; top:20vh; width:auto;">
             <div class="modal-content img-responsive" style="display:block; background-size:100% 100%;">
               <div class="modal-header" style="border-bottom:0px">
                 <button id="closeModal" type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
               </div>
-              <img width="545" height="350" src="https://lh3.googleusercontent.com/a3hjxnpOxgxhhvtpR9zu6xQS-2Ejd0bsiOZ5zqK5oOtc27tRe8W6Z9yoAblIWE4gFRywDgO3faJ-Yfg=w3360-h1905-rw">
+              <?php the_content(); ?>
             </div>
           </div>
         </div>
@@ -40,6 +42,9 @@ Template Name: Modal
         </div>
       </div>
 
+          <?php endwhile; ?>
+          <?php else : ?>
+          <?php endif; ?>
 
 <!-- <?php // TODO: Mohan refactor into footer ?> -->
 
